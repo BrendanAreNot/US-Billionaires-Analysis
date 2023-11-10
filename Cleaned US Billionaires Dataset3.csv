@@ -1,0 +1,777 @@
+,worldwideRanking,finalWorth,personName,age,countryOfResidence,city,source,industries,countryOfCitizenship,selfMade,status,gender,birthDate,date,state,residenceStateRegion,USRanking
+1,2,180000,Elon Musk,51.0,United States,Austin,"Tesla, SpaceX",Automotive,United States,True,D,M,6/28/1971 0:00,4/4/2023 5:01,Texas,South,1
+2,3,114000,Jeff Bezos,59.0,United States,Medina,Amazon,Technology,United States,True,D,M,1/12/1964 0:00,4/4/2023 5:01,Washington,West,2
+3,4,107000,Larry Ellison,78.0,United States,Lanai,Oracle,Technology,United States,True,U,M,8/17/1944 0:00,4/4/2023 5:01,Hawaii,West,3
+4,5,106000,Warren Buffett,92.0,United States,Omaha,Berkshire Hathaway,Finance & Investments,United States,True,D,M,8/30/1930 0:00,4/4/2023 5:01,Nebraska,Midwest,4
+5,6,104000,Bill Gates,67.0,United States,Medina,Microsoft,Technology,United States,True,D,M,10/28/1955 0:00,4/4/2023 5:01,Washington,West,5
+6,7,94500,Michael Bloomberg,81.0,United States,New York,Bloomberg LP,Media & Entertainment,United States,True,U,M,2/14/1942 0:00,4/4/2023 5:01,New York,Northeast,6
+7,10,80700,Steve Ballmer,67.0,United States,Hunts Point,Microsoft,Technology,United States,True,D,M,3/24/1956 0:00,4/4/2023 5:01,Washington,West,7
+8,12,79200,Larry Page,50.0,United States,Palo Alto,Google,Technology,United States,True,D,M,3/26/1973 0:00,4/4/2023 5:01,California,West,8
+9,14,76000,Sergey Brin,49.0,United States,Los Altos,Google,Technology,United States,True,D,M,8/21/1973 0:00,4/4/2023 5:01,California,West,9
+10,16,64400,Mark Zuckerberg,38.0,United States,Palo Alto,Facebook,Technology,United States,True,D,M,5/14/1984 0:00,4/4/2023 5:01,California,West,10
+11,17,59000,Charles Koch & family,87.0,United States,Wichita,Koch Industries,Diversified,United States,False,D,M,11/1/1935 0:00,4/4/2023 5:01,Kansas,Midwest,11
+12,17,59000,Julia Koch & family,60.0,United States,New York,Koch Industries,Diversified,United States,False,D,F,4/12/1962 0:00,4/4/2023 5:01,New York,Northeast,11
+13,19,58800,Jim Walton,74.0,United States,Bentonville,Walmart,Fashion & Retail,United States,False,D,M,6/7/1948 0:00,4/4/2023 5:01,Arkansas,South,13
+14,20,57600,Rob Walton & family,78.0,United States,Bentonville,Walmart,Fashion & Retail,United States,False,D,M,10/27/1944 0:00,4/4/2023 5:01,Arkansas,South,14
+15,21,56700,Alice Walton,73.0,United States,Fort Worth,Walmart,Fashion & Retail,United States,False,D,F,10/7/1949 0:00,4/4/2023 5:01,Texas,South,15
+16,23,50100,Michael Dell,58.0,United States,Austin,Dell Technologies,Technology,United States,True,D,M,2/23/1965 0:00,4/4/2023 5:01,Texas,South,16
+17,25,45100,Phil Knight & family,85.0,United States,Hillsboro,Nike,Fashion & Retail,United States,True,D,M,2/24/1938 0:00,4/4/2023 5:01,Oregon,West,17
+18,31,38300,Jacqueline Mars,83.0,United States,The Plains,"Candy, pet food",Food & Beverage,United States,False,U,F,10/10/1939 0:00,4/4/2023 5:01,Virginia,South,18
+19,31,38300,John Mars,87.0,United States,Jackson,"Candy, pet food",Food & Beverage,United States,False,U,M,10/15/1935 0:00,4/4/2023 5:01,Wyoming,South,18
+20,35,35000,Miriam Adelson & family,77.0,United States,Las Vegas,Casinos,Gambling & Casinos,United States,False,U,F,10/10/1945 0:00,4/4/2023 5:01,Nevada,West,20
+21,35,35000,Ken Griffin,54.0,United States,Miami,Hedge funds,Finance & Investments,United States,True,U,M,10/15/1968 0:00,4/4/2023 5:01,Florida,South,20
+22,40,32100,Len Blavatnik,65.0,United Kingdom,London,"Music, chemicals",Diversified,United States,True,D,M,6/1/1957 0:00,4/4/2023 5:01,N/A,N/A,22
+23,41,31600,Alain Wertheimer,74.0,United States,New York,Chanel,Fashion & Retail,France,False,U,M,8/28/1948 0:00,4/4/2023 5:01,New York,Northeast,23
+24,41,31600,Gerard Wertheimer,72.0,United States,New York,Chanel,Fashion & Retail,France,False,U,M,1/9/1951 0:00,4/4/2023 5:01,New York,Northeast,23
+25,48,28500,Jeff Yass,64.0,United States,Haverford,"Trading, investments",Finance & Investments,United States,True,U,M,7/17/1958 0:00,4/4/2023 5:01,Pennsylvania,Northeast,25
+26,49,28100,Jim Simons,84.0,United States,East Setauket,Hedge funds,Finance & Investments,United States,True,D,M,4/25/1938 0:00,4/4/2023 5:01,New York,Northeast,26
+27,50,27800,Stephen Schwarzman,76.0,United States,New York,Investments,Finance & Investments,United States,True,D,M,2/14/1947 0:00,4/4/2023 5:01,New York,Northeast,27
+28,57,25300,Thomas Peterffy,78.0,United States,Palm Beach,Discount brokerage,Finance & Investments,United States,True,U,M,9/30/1944 0:00,4/4/2023 5:01,Florida,South,28
+29,60,24400,MacKenzie Scott,52.0,United States,Seattle,Amazon,Technology,United States,False,D,F,4/7/1970 0:00,4/4/2023 5:01,Washington,West,29
+30,72,21600,Abigail Johnson,61.0,United States,Milton,Fidelity,Finance & Investments,United States,False,U,F,12/19/1961 0:00,4/4/2023 5:01,Massachusetts,Northeast,30
+31,74,21200,Lukas Walton,36.0,United States,Chicago,Walmart,Fashion & Retail,United States,False,U,M,9/19/1986 0:00,4/4/2023 5:01,Illinois,Midwest,31
+32,76,21100,Jensen Huang,60.0,United States,Los Altos,Semiconductors,Technology,United States,True,U,M,2/17/1963 0:00,4/4/2023 5:01,California,West,32
+33,77,21000,Leonard Lauder,90.0,United States,New York,Estee Lauder,Fashion & Retail,United States,False,D,M,3/19/1933 0:00,4/4/2023 5:01,New York,Northeast,33
+34,81,20200,"Thomas Frist, Jr. & family",84.0,United States,Nashville,Hospitals,Healthcare,United States,True,D,M,8/12/1938 0:00,4/4/2023 5:01,Tennessee,South,34
+35,83,19100,Ray Dalio,73.0,United States,Greenwich,Hedge funds,Finance & Investments,United States,True,D,M,8/8/1949 0:00,4/4/2023 5:01,Connecticut,Northeast,35
+36,89,18500,Harold Hamm & family,77.0,United States,Oklahoma City,Oil & gas,Energy,United States,True,U,M,12/11/1945 0:00,4/4/2023 5:01,Oklahoma,South,36
+37,89,18500,David Tepper,65.0,United States,Palm Beach,Hedge funds,Finance & Investments,United States,True,U,M,9/11/1957 0:00,4/4/2023 5:01,Florida,South,36
+38,92,18000,Daniel Gilbert,61.0,United States,Franklin,Quicken Loans,Finance & Investments,United States,True,D,M,1/17/1962 0:00,4/4/2023 5:01,Michigan,Midwest,38
+39,94,17500,Steve Cohen,66.0,United States,Greenwich,Hedge funds,Finance & Investments,United States,True,U,M,6/11/1956 0:00,4/4/2023 5:01,Connecticut,Northeast,39
+40,94,17500,Carl Icahn,87.0,United States,Indian Creek,Investments,Finance & Investments,United States,True,U,M,2/16/1936 0:00,4/4/2023 5:01,Florida,South,39
+41,97,17400,Donald Bren,90.0,United States,Newport Beach,Real estate,Real Estate,United States,True,U,M,5/11/1932 0:00,4/4/2023 5:01,California,West,41
+42,97,17400,"John Menard, Jr.",83.0,United States,Eau Claire,Home improvement stores,Fashion & Retail,United States,True,U,M,1/22/1940 0:00,4/4/2023 5:01,Wisconsin,Midwest,41
+43,99,17100,Rupert Murdoch & family,92.0,United States,New York,"Newspapers, TV network",Media & Entertainment,United States,False,D,M,3/11/1931 0:00,4/4/2023 5:01,New York,Northeast,43
+44,104,16200,Eric Schmidt,67.0,United States,Atherton,Google,Technology,United States,True,D,M,4/27/1955 0:00,4/4/2023 5:01,California,West,44
+45,113,15500,Robert Pera,45.0,United States,San Jose,Wireless networking,Technology,United States,True,U,M,3/10/1978 0:00,4/4/2023 5:01,California,West,45
+46,116,14900,David Green & family,81.0,United States,Oklahoma City,Retail,Fashion & Retail,United States,True,U,M,11/13/1941 0:00,4/4/2023 5:01,Oklahoma,South,46
+47,130,13700,Diane Hendricks,76.0,United States,Afton,Building supplies,Construction & Engineering,United States,True,U,F,3/2/1947 0:00,4/4/2023 5:01,Wisconsin,Midwest,47
+48,130,13700,Jan Koum,47.0,United States,Atherton,WhatsApp,Technology,United States,True,U,M,2/24/1976 0:00,4/4/2023 5:01,California,West,47
+49,133,13300,Jerry Jones,80.0,United States,Dallas,Dallas Cowboys,Sports,United States,True,U,M,10/13/1942 0:00,4/4/2023 5:01,Texas,South,49
+50,133,13300,George Kaiser,80.0,United States,Tulsa,"Oil & gas, banking",Energy,United States,False,U,M,7/29/1942 0:00,4/4/2023 5:01,Oklahoma,South,49
+51,138,12900,Stanley Kroenke,75.0,United States,Electra,"Sports, real estate",Sports,United States,True,U,M,7/29/1947 0:00,4/4/2023 5:01,Texas,South,51
+52,144,12100,Shahid Khan,72.0,United States,Naples,Auto parts,Automotive,United States,True,U,M,7/18/1950 0:00,4/4/2023 5:01,Florida,South,52
+53,145,12000,Laurene Powell Jobs & family,59.0,United States,Palo Alto,"Apple, Disney",Technology,United States,False,D,F,11/6/1963 0:00,4/4/2023 5:01,California,West,53
+54,147,11600,Stephen Ross,82.0,United States,New York,Real estate,Real Estate,United States,True,U,M,5/10/1940 0:00,4/4/2023 5:01,New York,Northeast,54
+55,151,11400,Michael Rubin,50.0,United States,Bryn Mawr,Online retail,Fashion & Retail,United States,True,U,M,7/21/1972 0:00,4/4/2023 5:01,Pennsylvania,Northeast,55
+56,153,11300,Israel Englander,74.0,United States,New York,Hedge funds,Finance & Investments,United States,True,D,M,9/30/1948 0:00,4/4/2023 5:01,New York,Northeast,56
+57,161,10900,Philip Anschutz,83.0,United States,Denver,"Energy, sports, entertainment",Finance & Investments,United States,False,E,M,12/28/1939 0:00,4/4/2023 5:01,Colorado,West,57
+58,161,10900,Judy Love & family,85.0,United States,Oklahoma City,Gas stations,Fashion & Retail,United States,True,U,F,6/17/1937 0:00,4/4/2023 5:01,Oklahoma,South,57
+59,164,10700,Donald Newhouse,93.0,United States,New York,Media,Media & Entertainment,United States,False,D,M,8/5/1929 0:00,4/4/2023 5:01,New York,Northeast,59
+60,165,10600,Robert Kraft,81.0,United States,Brookline,"Manufacturing, New England Patriots",Sports,United States,True,U,M,6/5/1941 0:00,4/4/2023 5:01,Massachusetts,Northeast,60
+61,170,10300,Andrew Beal,70.0,United States,Dallas,"Banks, real estate",Finance & Investments,United States,True,U,M,11/29/1952 0:00,4/4/2023 5:01,Texas,South,61
+62,171,10200,Carl Cook,60.0,United States,Bloomington,Medical devices,Healthcare,United States,False,D,M,8/19/1962 0:00,4/4/2023 5:01,Indiana,Midwest,62
+63,171,10200,David Duffield,82.0,United States,Incline Village,Business software,Technology,United States,True,D,M,9/21/1940 0:00,4/4/2023 5:01,Nevada,West,62
+64,171,10200,Jeffery Hildebrand,64.0,United States,Houston,Oil,Energy,United States,True,U,M,3/5/1959 0:00,4/4/2023 5:01,Texas,South,62
+65,171,10200,Christy Walton,74.0,United States,Jackson,Walmart,Fashion & Retail,United States,False,U,F,2/8/1949 0:00,4/4/2023 5:01,Wyoming,South,62
+66,182,10000,Autry Stephens,85.0,United States,Midland,Oil,Energy,United States,True,U,M,3/8/1938 0:00,4/4/2023 5:01,Texas,South,66
+67,190,9700,Michael Kim,59.0,South Korea,Seoul,Private equity,Finance & Investments,United States,True,U,M,10/1/1963 0:00,4/4/2023 5:01,N/A,N/A,67
+68,195,9600,Rick Cohen & family,70.0,United States,Keene,Warehouse automation,Technology,United States,False,N,M,7/25/1952 0:00,4/4/2023 5:01,New Hampshire,Northeast,68
+69,195,9600,Marijke Mars,58.0,United States,Los Angeles,"Candy, pet food",Food & Beverage,United States,False,U,F,7/28/1964 0:00,4/4/2023 5:01,California,West,68
+70,195,9600,Pamela Mars,62.0,United States,Alexandria,"Candy, pet food",Food & Beverage,United States,False,U,F,8/1/1960 0:00,4/4/2023 5:01,Virginia,South,68
+71,195,9600,Valerie Mars,64.0,United States,New York,"Candy, pet food",Food & Beverage,United States,False,U,F,1/26/1959 0:00,4/4/2023 5:01,New York,Northeast,68
+72,195,9600,Victoria Mars,66.0,United States,Philadelphia,"Candy, pet food",Food & Beverage,United States,False,U,F,12/15/1956 0:00,4/4/2023 5:01,Pennsylvania,Northeast,68
+73,206,9300,Brian Chesky,41.0,United States,San Francisco,Airbnb,Technology,United States,True,D,M,8/29/1981 0:00,4/4/2023 5:01,California,West,73
+74,208,9200,John Malone,82.0,United States,Elizabeth,Cable television,Media & Entertainment,United States,True,U,M,3/7/1941 0:00,4/4/2023 5:01,Colorado,West,74
+75,208,9200,Charles Schwab,85.0,United States,Woodside,Discount brokerage,Finance & Investments,United States,True,D,M,7/29/1937 0:00,4/4/2023 5:01,California,West,74
+76,208,9200,Eric Smidt,63.0,United States,Beverly Hills,Hardware stores,Fashion & Retail,United States,True,U,M,1/1/1960 0:00,4/4/2023 5:01,California,West,74
+77,215,9000,David Cheriton,72.0,United States,Palo Alto,Google,Technology,Canada,True,D,M,3/29/1951 0:00,4/4/2023 5:01,California,West,77
+78,223,8800,John Doerr,71.0,United States,Woodside,Venture capital,Technology,United States,True,D,M,6/29/1951 0:00,4/4/2023 5:01,California,West,78
+79,223,8800,Dustin Moskovitz,38.0,United States,San Francisco,Facebook,Technology,United States,True,D,M,5/22/1984 0:00,4/4/2023 5:01,California,West,78
+80,223,8800,Pierre Omidyar,55.0,United States,Honolulu,"EBay, PayPal",Technology,United States,True,D,M,6/21/1967 0:00,4/4/2023 5:01,Hawaii,West,78
+81,232,8600,Leon Black,71.0,United States,New York,Private equity,Finance & Investments,United States,True,D,M,7/31/1951 0:00,4/4/2023 5:01,New York,Northeast,81
+82,232,8600,Andreas von Bechtolsheim & family,67.0,United States,Palo Alto,Google,Technology,Germany,True,D,M,9/30/1955 0:00,4/4/2023 5:01,California,West,81
+83,239,8500,"Chase Coleman, III.",47.0,United States,New York,Investments,Finance & Investments,United States,True,D,M,6/21/1975 0:00,4/4/2023 5:01,New York,Northeast,83
+84,239,8500,Ann Walton Kroenke,74.0,United States,Electra,Walmart,Fashion & Retail,United States,False,D,F,12/18/1948 0:00,4/4/2023 5:01,Texas,South,83
+85,242,8400,Jim Kennedy,75.0,United States,Atlanta,"Media, automotive",Media & Entertainment,United States,False,U,M,11/29/1947 0:00,4/4/2023 5:01,Georgia,South,85
+86,242,8400,Blair Parry-Okeden,72.0,Australia,New South Wales,"Media, automotive",Media & Entertainment,United States,False,U,F,5/21/1950 0:00,4/4/2023 5:01,N/A,N/A,85
+87,246,8300,John Morris,75.0,United States,Springfield,Sporting goods retail,Fashion & Retail,United States,True,U,M,3/19/1948 0:00,4/4/2023 5:01,Missouri,Midwest,87
+88,249,8200,George Roberts,79.0,United States,Atherton,Private equity,Finance & Investments,United States,True,U,M,9/14/1943 0:00,4/4/2023 5:01,California,West,88
+89,256,8100,Tilman Fertitta,65.0,United States,Houston,"Houston Rockets, entertainment",Food & Beverage,United States,True,U,M,6/25/1957 0:00,4/4/2023 5:01,Texas,South,89
+90,261,8000,Nathan Blecharczyk,39.0,United States,San Francisco,Airbnb,Technology,United States,True,D,M,6/11/1983 0:00,4/4/2023 5:01,California,West,90
+91,261,8000,Bernard Marcus,93.0,United States,Atlanta,Home Depot,Fashion & Retail,United States,True,D,M,5/12/1929 0:00,4/4/2023 5:01,Georgia,South,90
+92,261,8000,Patrick Ryan,85.0,United States,Winnetka,Insurance,Finance & Investments,United States,True,E,M,5/15/1937 0:00,4/4/2023 5:01,Illinois,Midwest,90
+93,261,8000,Robert F. Smith,60.0,United States,Austin,Private equity,Finance & Investments,United States,True,U,M,12/1/1962 0:00,4/4/2023 5:01,Texas,South,90
+94,268,7900,Orlando Bravo,52.0,United States,Miami Beach,Private equity,Finance & Investments,United States,True,U,M,9/23/1970 0:00,4/4/2023 5:01,Florida,South,94
+95,268,7900,Nancy Walton Laurie,71.0,United States,Henderson,Walmart,Fashion & Retail,United States,False,D,F,5/15/1951 0:00,4/4/2023 5:01,Nevada,West,94
+96,268,7900,Ramzi Musallam,54.0,United States,New York,Private equity,Finance & Investments,United States,True,U,M,9/17/1968 0:00,4/4/2023 5:01,New York,Northeast,94
+97,268,7900,David Shaw,72.0,United States,New York,Hedge funds,Finance & Investments,United States,True,U,M,3/29/1951 0:00,4/4/2023 5:01,New York,Northeast,94
+98,276,7800,Rocco Commisso,73.0,United States,Saddle River,Telecom,Telecom,United States,True,U,M,11/25/1949 0:00,4/4/2023 5:01,New Jersey,Northeast,98
+99,282,7700,David Geffen,80.0,United States,Beverly Hills,"Movies, record labels",Media & Entertainment,United States,True,D,M,2/21/1943 0:00,4/4/2023 5:01,California,West,99
+100,282,7700,Henry Samueli,68.0,United States,Newport Beach,Semiconductors,Technology,United States,True,U,M,9/20/1954 0:00,4/4/2023 5:01,California,West,99
+101,282,7700,Reinhold Schmieding,68.0,United States,Naples,Medical devices,Healthcare,United States,True,U,M,1/3/1955 0:00,4/4/2023 5:01,Florida,South,99
+102,290,7600,Joe Gebbia,41.0,United States,Austin,Airbnb,Technology,United States,True,D,M,8/21/1981 0:00,4/4/2023 5:01,Texas,South,102
+103,290,7600,Leonard Stern,85.0,United States,New York,Real estate,Real Estate,United States,False,U,M,3/28/1938 0:00,4/4/2023 5:01,New York,Northeast,102
+104,299,7500,Arthur Blank,80.0,United States,Atlanta,Home Depot,Sports,United States,True,U,M,9/27/1942 0:00,4/4/2023 5:01,Georgia,South,104
+105,299,7500,Charles Butt,85.0,United States,San Antonio,Supermarkets,Fashion & Retail,United States,False,R,M,2/3/1938 0:00,4/4/2023 5:01,Texas,South,104
+106,299,7500,"Paul Tudor Jones, II.",68.0,United States,Palm Beach,Hedge funds,Finance & Investments,United States,True,U,M,9/28/1954 0:00,4/4/2023 5:01,Florida,South,104
+107,299,7500,Henry Kravis,79.0,United States,New York,Private equity,Finance & Investments,United States,True,D,M,1/6/1944 0:00,4/4/2023 5:01,New York,Northeast,104
+108,305,7400,James Goodnight,80.0,United States,Cary,Software,Technology,United States,True,U,M,1/6/1943 4:00,4/4/2023 9:01,North Carolina,South,108
+109,305,7400,Steven Rales,72.0,United States,Santa Barbara,"Manufacturing, investments",Manufacturing,United States,True,D,M,3/31/1951 0:00,4/4/2023 5:01,California,West,108
+110,305,7400,Harry Stine,81.0,United States,Adel,Agriculture,Food & Beverage,United States,True,U,M,11/30/1941 0:00,4/4/2023 5:01,Iowa,Midwest,108
+111,317,7200,Arthur Dantchik,65.0,United States,Gladwyne,"Trading, investments",Finance & Investments,United States,True,N,M,11/25/1957 0:00,4/4/2023 5:01,Pennsylvania,Northeast,111
+112,317,7200,Jeff Greene,68.0,United States,Palm Beach,"Real estate, investments",Real Estate,United States,True,U,M,12/10/1954 0:00,4/4/2023 5:01,Florida,South,111
+113,317,7200,Don Hankey,79.0,United States,Malibu,Auto loans,Finance & Investments,United States,True,U,M,6/13/1943 0:00,4/4/2023 5:01,California,West,111
+114,317,7200,Richard Kinder,78.0,United States,Houston,Pipelines,Energy,United States,True,D,M,10/19/1944 0:00,4/4/2023 5:01,Texas,South,111
+115,325,7100,Judy Faulkner,79.0,United States,Madison,Healthcare software,Technology,United States,True,U,F,8/1/1943 0:00,4/4/2023 5:01,Wisconsin,Midwest,115
+116,325,7100,Tamara Gustavson,61.0,United States,Lexington,Self storage,Service,United States,False,D,F,11/16/1961 0:00,4/4/2023 5:01,Kentucky,South,115
+117,332,7000,Marc Benioff,58.0,United States,San Francisco,Business software,Technology,United States,True,D,M,9/25/1964 0:00,4/4/2023 5:01,California,West,117
+118,332,7000,Jack Dangermond,77.0,United States,Redlands,Mapping software,Technology,United States,True,U,M,7/23/1945 0:00,4/4/2023 5:01,California,West,117
+119,332,7000,Ralph Lauren,83.0,United States,New York,Apparel,Fashion & Retail,United States,True,U,M,10/14/1939 0:00,4/4/2023 5:01,New York,Northeast,117
+120,332,7000,J. Christopher Reyes,69.0,United States,Hobe Sound,Food distribution,Food & Beverage,United States,True,D,M,12/29/1953 0:00,4/4/2023 5:01,Florida,South,117
+121,332,7000,Jude Reyes,67.0,United States,Palm Beach,Food distribution,Food & Beverage,United States,True,D,M,9/16/1955 0:00,4/4/2023 5:01,Florida,South,117
+122,332,7000,Don Vultaggio & family,71.0,United States,Port Washington,Beverages,Food & Beverage,United States,True,U,M,2/26/1952 0:00,4/4/2023 5:01,New York,Northeast,117
+123,344,6900,Edythe Broad & family,87.0,United States,Los Angeles,"Homebuilding, insurance",Diversified,United States,False,E,F,1/1/1936 0:00,4/4/2023 5:01,California,West,123
+124,344,6900,Pauline MacMillan Keinath,89.0,United States,St. Louis,Cargill,Food & Beverage,United States,False,D,F,1/1/1934 0:00,4/4/2023 5:01,Missouri,Midwest,123
+125,344,6900,Philippe Laffont,55.0,United States,New York,Hedge fund,Finance & Investments,United States,True,U,M,9/16/1967 0:00,4/4/2023 5:01,New York,Northeast,123
+126,344,6900,Igor Olenicoff,80.0,United States,Lighthouse Point,Real estate,Real Estate,United States,True,U,M,9/20/1942 0:00,4/4/2023 5:01,Florida,South,123
+127,344,6900,Ronda Stryker,68.0,United States,Portage,Medical equipment,Healthcare,United States,False,U,F,5/1/1954 0:00,4/4/2023 5:01,Michigan,Midwest,123
+128,352,6800,Dannine Avara,59.0,United States,Houston,Pipelines,Energy,United States,False,U,F,3/9/1964 0:00,4/4/2023 5:01,Texas,South,128
+129,352,6800,Scott Duncan,40.0,United States,Houston,Pipelines,Energy,United States,False,U,M,11/1/1982 0:00,4/4/2023 5:01,Texas,South,128
+130,352,6800,Milane Frantz,53.0,United States,Houston,Pipelines,Energy,United States,False,U,F,8/12/1969 0:00,4/4/2023 5:01,Texas,South,128
+131,352,6800,"Edward Johnson, IV.",58.0,United States,Boston,Fidelity,Finance & Investments,United States,False,U,M,11/18/1964 0:00,4/4/2023 5:01,Massachusetts,Northeast,128
+132,352,6800,Yuri Milner,61.0,United States,Los Altos,Tech investments,Finance & Investments,Israel,True,D,M,11/11/1961 0:00,4/4/2023 5:01,California,West,128
+133,352,6800,Gordon Moore,94.0,United States,Woodside,Intel,Technology,United States,True,D,M,1/3/1929 0:00,4/4/2023 5:01,California,Unknown,128
+134,352,6800,John Overdeck,53.0,United States,Millburn,Hedge funds,Finance & Investments,United States,True,U,M,12/21/1969 0:00,4/4/2023 5:01,New Jersey,Northeast,128
+135,352,6800,David Siegel,61.0,United States,Scarsdale,Hedge funds,Finance & Investments,United States,True,U,M,7/15/1961 0:00,4/4/2023 5:01,New York,Northeast,128
+136,352,6800,Randa Duncan Williams,61.0,United States,Houston,Pipelines,Energy,United States,False,U,F,8/28/1961 0:00,4/4/2023 5:01,Texas,South,128
+137,365,6700,Ken Fisher,72.0,United States,Dallas,Money management,Finance & Investments,United States,True,U,M,11/29/1950 0:00,4/4/2023 5:01,Texas,South,137
+138,365,6700,Terrence Pegula,72.0,United States,Boca Raton,Natural gas,Energy,United States,True,U,M,3/27/1951 0:00,4/4/2023 5:01,Florida,South,137
+139,365,6700,"Edward Roski, Jr.",84.0,United States,Los Angeles,Real estate,Real Estate,United States,False,U,M,12/25/1938 0:00,4/4/2023 5:01,California,West,137
+140,365,6700,John A. Sobrato & family,83.0,United States,Atherton,Real estate,Real Estate,United States,True,U,M,5/23/1939 0:00,4/4/2023 5:01,California,West,137
+141,365,6700,George Soros,92.0,United States,Katonah,Hedge funds,Finance & Investments,United States,True,D,M,8/12/1930 0:00,4/4/2023 5:01,New York,Northeast,137
+142,365,6700,David Sun,71.0,United States,Irvine,Computer hardware,Technology,United States,True,U,M,10/12/1951 0:00,4/4/2023 5:01,California,West,137
+143,365,6700,John Tu,81.0,United States,Rolling Hills,Computer hardware,Technology,United States,True,U,M,8/12/1941 0:00,4/4/2023 5:01,California,West,137
+144,383,6600,Bubba Cathy,68.0,United States,Atlanta,Chick-fil-A,Food & Beverage,United States,False,U,M,4/22/1954 0:00,4/4/2023 5:01,Georgia,South,144
+145,383,6600,Dan Cathy,70.0,United States,Atlanta,Chick-fil-A,Food & Beverage,United States,False,U,M,3/1/1953 0:00,4/4/2023 5:01,Georgia,South,144
+146,383,6600,Trudy Cathy White,67.0,United States,Hampton,Chick-fil-A,Food & Beverage,United States,False,U,F,12/17/1955 0:00,4/4/2023 5:01,Georgia,South,144
+147,383,6600,Bruce Kovner,78.0,United States,New York,Hedge funds,Finance & Investments,United States,True,U,M,2/25/1945 0:00,4/4/2023 5:01,New York,Northeast,144
+148,383,6600,"Henry Nicholas, III.",63.0,United States,Newport Coast,Semiconductors,Technology,United States,True,U,M,10/8/1959 0:00,4/4/2023 5:01,California,West,144
+149,390,6500,David Bonderman,80.0,United States,Fort Worth,Private equity,Finance & Investments,United States,True,U,M,11/27/1942 0:00,4/4/2023 5:01,Texas,South,149
+150,390,6500,Melinda French Gates,58.0,United States,Medina,Microsoft,Technology,United States,False,U,F,8/15/1964 0:00,4/4/2023 5:01,Washington,West,149
+151,390,6500,Annette Lerner & family,93.0,United States,Chevy Chase,Real estate,Real Estate,United States,False,N,F,2/27/1930 0:00,4/4/2023 5:01,Maryland,South,149
+152,397,6400,Stephen Bisciotti,62.0,United States,Hobe Sound,"Staffing, Baltimore Ravens",Sports,United States,True,U,M,4/10/1960 0:00,4/4/2023 5:01,Florida,South,152
+153,397,6400,Stanley Druckenmiller,69.0,United States,New York,Hedge funds,Finance & Investments,United States,True,D,M,6/14/1953 0:00,4/4/2023 5:01,New York,Northeast,152
+154,397,6400,Dennis Washington,88.0,United States,Missoula,"Construction, mining",Logistics,United States,True,D,M,7/27/1934 0:00,4/4/2023 5:01,Montana,West,152
+155,418,6100,Tom Gores,58.0,United States,Beverly Hills,Private equity,Finance & Investments,United States,True,U,M,7/31/1964 0:00,4/4/2023 5:01,California,West,155
+156,425,6000,Neil Bluhm,85.0,United States,Chicago,Real estate,Real Estate,United States,True,U,M,1/12/1938 0:00,4/4/2023 5:01,Illinois,Midwest,156
+157,425,6000,Jay Chaudhry,63.0,United States,Reno,Security software,Technology,United States,True,D,M,8/26/1959 0:00,4/4/2023 5:01,Nevada,West,156
+158,425,6000,Michael Milken,76.0,United States,Los Angeles,Investments,Finance & Investments,United States,True,U,M,7/4/1946 0:00,4/4/2023 5:01,California,West,156
+159,425,6000,David Steward,71.0,United States,St. Louis,IT provider,Technology,United States,True,U,M,7/2/1951 0:00,4/4/2023 5:01,Missouri,Midwest,156
+160,425,6000,Les Wexner & family,85.0,United States,New Albany,Retail,Fashion & Retail,United States,True,U,M,9/8/1937 0:00,4/4/2023 5:01,Ohio,Midwest,156
+161,437,5900,Andreas Halvorsen,61.0,United States,Darien,Hedge funds,Finance & Investments,Norway,True,D,M,4/23/1961 0:00,4/4/2023 5:01,Connecticut,Northeast,161
+162,437,5900,Antony Ressler,62.0,United States,Los Angeles,Finance,Finance & Investments,United States,True,U,M,10/12/1960 0:00,4/4/2023 5:01,California,West,161
+163,442,5800,Josh Harris,58.0,United States,Miami,Private equity,Finance & Investments,United States,True,E,M,12/29/1964 0:00,4/4/2023 5:01,Florida,South,163
+164,442,5800,Patrick Soon-Shiong,70.0,United States,Los Angeles,Pharmaceuticals,Healthcare,United States,True,D,M,7/29/1952 0:00,4/4/2023 5:01,California,West,163
+165,445,5700,John Brown,88.0,United States,Atlanta,Medical equipment,Healthcare,United States,True,U,M,9/15/1934 0:00,4/4/2023 5:01,Georgia,South,165
+166,445,5700,Daniel Ziff,51.0,United States,New York,Investments,Finance & Investments,United States,False,U,M,11/2/1971 0:00,4/4/2023 5:01,New York,Northeast,165
+167,445,5700,Dirk Ziff,59.0,United States,North Palm Beach,Investments,Finance & Investments,United States,False,U,M,4/1/1964 0:00,4/4/2023 5:01,Florida,South,165
+168,445,5700,Robert Ziff,56.0,United States,New York,Investments,Finance & Investments,United States,False,U,M,8/12/1966 0:00,4/4/2023 5:01,New York,Northeast,165
+169,455,5600,Ray Lee Hunt,79.0,United States,Dallas,"Oil, real estate",Energy,United States,False,D,M,4/6/1943 0:00,4/4/2023 5:01,Texas,South,169
+170,455,5600,Ken Langone,87.0,United States,Sands Point,Investments,Finance & Investments,United States,True,D,M,9/16/1935 0:00,4/4/2023 5:01,New York,Northeast,169
+171,455,5600,Li Ge,56.0,China,Shanghai,Pharmaceutical ingredients,Healthcare,United States,True,Split Family Fortune,M,1/1/1967 0:00,4/4/2023 5:01,N/A,N/A,169
+172,455,5600,Karen Pritzker,65.0,United States,Branford,"Hotels, investments",Finance & Investments,United States,False,D,F,1/7/1958 0:00,4/4/2023 5:01,Connecticut,Northeast,169
+173,455,5600,Robert Rowling,69.0,United States,Dallas,"Hotels, investments",Service,United States,False,U,M,9/26/1953 0:00,4/4/2023 5:01,Texas,South,169
+174,466,5500,Micky Arison,73.0,United States,Bal Harbour,Carnival Cruises,Service,United States,False,D,M,6/29/1949 0:00,4/4/2023 5:01,Florida,South,174
+175,466,5500,James Chambers,65.0,United States,Palisades,"Media, automotive",Media & Entertainment,United States,False,U,M,4/12/1957 0:00,4/4/2023 5:01,New York,Northeast,174
+176,466,5500,John Collison,32.0,United States,San Francisco,Payments software,Technology,Ireland,True,D,M,8/6/1990 0:00,4/4/2023 5:01,California,West,174
+177,466,5500,Patrick Collison,34.0,United States,San Francisco,Payment software,Technology,Ireland,True,D,M,9/9/1988 0:00,4/4/2023 5:01,California,West,174
+178,466,5500,Archie Aldis Emmerson & family,93.0,United States,Redding,"Timberland, lumber mills",Manufacturing,United States,True,U,M,4/10/1929 0:00,4/4/2023 5:01,California,West,174
+179,466,5500,Dan Friedkin,58.0,United States,Houston,Toyota dealerships,Automotive,United States,False,U,M,2/27/1965 0:00,4/4/2023 5:01,Texas,South,174
+180,466,5500,Mitchell Rales,66.0,United States,Potomac,"Manufacturing, investments",Manufacturing,United States,True,D,M,8/21/1956 0:00,4/4/2023 5:01,Maryland,South,174
+181,466,5500,Katharine Rayner,78.0,United States,East Hampton,"Media, automotive",Media & Entertainment,United States,False,U,F,1/12/1945 0:00,4/4/2023 5:01,New York,Northeast,174
+182,466,5500,Paul Singer,78.0,United States,New York,Hedge funds,Finance & Investments,United States,True,U,M,8/22/1944 0:00,4/4/2023 5:01,New York,Northeast,174
+183,466,5500,Margaretta Taylor,80.0,United States,Southampton,"Media, automotive",Media & Entertainment,United States,False,U,F,4/15/1942 0:00,4/4/2023 5:01,New York,Northeast,174
+184,486,5400,Mat Ishbia,43.0,United States,Bloomfield Hills,Mortgage lender,Finance & Investments,United States,False,U,M,1/6/1980 0:00,4/4/2023 5:01,Michigan,Midwest,184
+185,486,5400,Leo Koguan,68.0,Singapore,Singapore,IT provider,Technology,United States,True,D,M,2/15/1955 0:00,4/4/2023 5:01,N/A,N/A,184
+186,497,5300,Todd Boehly,49.0,United States,Darien,Finance,Finance & Investments,United States,True,U,M,9/20/1973 0:00,4/4/2023 5:01,Connecticut,Northeast,186
+187,497,5300,Rick Caruso,64.0,United States,Los Angeles,Real estate,Real Estate,United States,True,U,M,1/7/1959 0:00,4/4/2023 5:01,California,West,186
+188,497,5300,Elizabeth Johnson,59.0,United States,Boston,Fidelity,Finance & Investments,United States,False,U,F,5/7/1963 0:00,4/4/2023 5:01,Massachusetts,Northeast,186
+189,497,5300,Douglas Leone,65.0,United States,Atherton,Venture capital,Finance & Investments,United States,True,D,M,7/4/1957 0:00,4/4/2023 5:01,California,West,186
+190,497,5300,Thomas Pritzker,72.0,United States,Chicago,"Hotels, investments",Finance & Investments,United States,False,U,M,6/6/1950 0:00,4/4/2023 5:01,Illinois,Midwest,186
+191,497,5300,Lynda Resnick,80.0,United States,Beverly Hills,Agriculture,Food & Beverage,United States,True,Split Family Fortune,F,1/2/1943 0:00,4/4/2023 5:01,California,West,186
+192,497,5300,Stewart Resnick,86.0,United States,Beverly Hills,Agriculture,Food & Beverage,United States,True,Split Family Fortune,M,12/24/1936 0:00,4/4/2023 5:01,California,West,186
+193,497,5300,Gary Rollins,78.0,United States,Atlanta,Pest control,Service,United States,False,E,M,8/30/1944 0:00,4/4/2023 5:01,Georgia,South,186
+194,497,5300,Mark Walter,62.0,United States,Chicago,"Finance, asset management",Finance & Investments,United States,True,U,M,5/22/1960 0:00,4/4/2023 5:01,Illinois,Midwest,186
+195,497,5300,Ronald Wanek,81.0,United States,Saint Petersburg,Furniture,Manufacturing,United States,True,D,M,5/19/1941 0:00,4/4/2023 5:01,Florida,South,186
+196,511,5200,Alexandre Behring,56.0,United States,Greenwich,Investments,Finance & Investments,Brazil,True,U,M,2/20/1967 0:00,4/4/2023 5:01,Connecticut,Northeast,196
+197,511,5200,Robert Faith,59.0,United States,Charleston,Real estate management,Real Estate,United States,True,N,M,10/3/1963 0:00,4/4/2023 5:01,South Carolina,South,196
+198,511,5200,"Robert Rich, Jr.",82.0,United States,Islamorada,Frozen foods,Food & Beverage,United States,False,U,M,1/25/1941 0:00,4/4/2023 5:01,Florida,South,196
+199,511,5200,Charles Simonyi,74.0,United States,Medina,Microsoft,Technology,United States,True,D,M,9/10/1948 0:00,4/4/2023 5:01,Washington,West,196
+200,511,5200,Ty Warner,78.0,United States,Oak Brook,"Plush toys, real estate",Real Estate,United States,True,U,M,9/3/1944 0:00,4/4/2023 5:01,Illinois,Midwest,196
+201,511,5200,Sam Zell,81.0,United States,Chicago,"Real estate, private equity",Real Estate,United States,True,D,M,9/28/1941 0:00,4/4/2023 5:01,Illinois,Unknown,196
+202,523,5100,Charles B. Johnson,90.0,United States,Palm Beach,Franklin Templeton,Finance & Investments,United States,False,E,M,1/6/1933 0:00,4/4/2023 5:01,Florida,South,202
+203,523,5100,Sami Mnaymneh,61.0,United States,Miami Beach,Private equity,Finance & Investments,United States,True,U,M,7/13/1961 0:00,4/4/2023 5:01,Florida,South,202
+204,523,5100,Tony Tamer,65.0,United States,New York,Private equity,Finance & Investments,United States,True,U,M,10/12/1957 0:00,4/4/2023 5:01,New York,Northeast,202
+205,523,5100,Romesh T. Wadhwani,75.0,United States,Palo Alto,Software,Technology,United States,True,U,M,8/25/1947 0:00,4/4/2023 5:01,California,West,202
+206,523,5100,Hansjoerg Wyss,88.0,United States,Wilson,Medical devices,Healthcare,Switzerland,True,U,M,1/1/1935 0:00,4/4/2023 5:01,Wyoming,South,202
+207,523,5100,Denise York & family,72.0,United States,Youngstown,San Francisco 49ers,Sports,United States,False,U,F,10/21/1950 0:00,4/4/2023 5:01,Ohio,Midwest,202
+208,534,5000,Ron Baron,79.0,United States,New York,Money management,Finance & Investments,United States,True,U,M,5/23/1943 0:00,4/4/2023 5:01,New York,Northeast,208
+209,534,5000,Robert Bass,75.0,United States,Fort Worth,"Oil, investments",Energy,United States,False,D,M,3/19/1948 0:00,4/4/2023 5:01,Texas,South,208
+210,534,5000,"Robert Hale, Jr.",56.0,United States,Boston,Telecom,Telecom,United States,True,U,M,7/8/1966 0:00,4/4/2023 5:01,Massachusetts,Northeast,208
+211,534,5000,Jane Lauder,50.0,United States,New York,Estée Lauder,Fashion & Retail,United States,False,D,F,1/1/1973 0:00,4/4/2023 5:01,New York,Northeast,208
+212,534,5000,George Lucas,78.0,United States,San Anselmo,Star Wars,Media & Entertainment,United States,True,D,M,5/14/1944 0:00,4/4/2023 5:01,California,West,208
+213,534,5000,Janice McNair,86.0,United States,Houston,"Energy, sports",Sports,United States,False,U,F,9/30/1936 0:00,4/4/2023 5:01,Texas,South,208
+214,552,4900,Jim Davis & family,79.0,United States,Newton,New Balance,Manufacturing,United States,True,D,M,5/17/1943 0:00,4/4/2023 5:01,Massachusetts,Northeast,214
+215,552,4900,Dagmar Dolby & family,81.0,United States,San Francisco,Dolby Laboratories,Technology,United States,False,U,F,6/28/1941 0:00,4/4/2023 5:01,California,West,214
+216,552,4900,Tom Golisano,81.0,United States,Naples,Payroll services,Service,United States,True,D,M,11/14/1941 0:00,4/4/2023 5:01,Florida,South,214
+217,552,4900,Jonathan Gray,53.0,United States,New York,Investments,Finance & Investments,United States,True,D,M,2/4/1970 0:00,4/4/2023 5:01,New York,Northeast,214
+218,552,4900,Mark Shoen,72.0,United States,Phoenix,U-Haul,Automotive,United States,False,U,M,11/20/1950 0:00,4/4/2023 5:01,Arizona,West,214
+219,552,4900,Dan Snyder,58.0,United States,Potomac,Washington Commanders,Sports,United States,True,U,M,11/23/1964 0:00,4/4/2023 5:01,Maryland,South,214
+220,552,4900,Kelcy Warren,67.0,United States,Dallas,Pipelines,Energy,United States,True,U,M,11/9/1955 0:00,4/4/2023 5:01,Texas,South,214
+221,567,4800,Jimmy Haslam,69.0,United States,Knoxville,"Gas stations, retail",Fashion & Retail,United States,False,U,M,3/9/1954 0:00,4/4/2023 5:01,Tennessee,South,221
+222,567,4800,H. Fisk Johnson,64.0,United States,Racine,Cleaning products,Manufacturing,United States,False,U,M,5/19/1958 0:00,4/4/2023 5:01,Wisconsin,Midwest,221
+223,567,4800,S. Curtis Johnson,67.0,United States,Racine,Cleaning products,Manufacturing,United States,False,U,M,5/5/1955 0:00,4/4/2023 5:01,Wisconsin,Midwest,221
+224,567,4800,Helen Johnson-Leipold,66.0,United States,Racine,Cleaning products,Manufacturing,United States,False,U,F,12/30/1956 0:00,4/4/2023 5:01,Wisconsin,Midwest,221
+225,567,4800,Vinod Khosla,68.0,United States,Portola Valley,Venture capital,Technology,United States,True,D,M,1/28/1955 0:00,4/4/2023 5:01,California,West,221
+226,567,4800,Thai Lee,64.0,United States,Austin,IT provider,Technology,United States,True,U,F,11/27/1958 0:00,4/4/2023 5:01,Texas,South,221
+227,567,4800,Winifred J. Marquart,63.0,United States,Virginia Beach,Cleaning products,Manufacturing,United States,False,U,F,4/6/1959 0:00,4/4/2023 5:01,Virginia,South,221
+228,580,4700,Gayle Benson,76.0,United States,New Orleans,New Orleans Saints,Sports,United States,False,U,F,1/26/1947 0:00,4/4/2023 5:01,Louisiana,South,228
+229,580,4700,Thomas Secunda,68.0,United States,Croton-on-Hudson,Bloomberg LP,Media & Entertainment,United States,True,U,M,6/23/1954 0:00,4/4/2023 5:01,New York,Northeast,228
+230,580,4700,Tim Sweeney,52.0,United States,Cary,Video games,Media & Entertainment,United States,True,D,M,12/13/1970 0:00,4/4/2023 5:01,North Carolina,South,228
+231,591,4600,Bert Beveridge,61.0,United States,Austin,Vodka,Food & Beverage,United States,True,U,M,1/1/1962 0:00,4/4/2023 5:01,Texas,South,231
+232,591,4600,Mark Cuban,64.0,United States,Dallas,"Online media, Dallas Mavericks",Media & Entertainment,United States,True,D,M,7/31/1958 0:00,4/4/2023 5:01,Texas,South,231
+233,591,4600,Charles Dolan & family,96.0,United States,Oyster Bay,Cable television,Media & Entertainment,United States,True,D,M,10/16/1926 0:00,4/4/2023 5:01,New York,Northeast,231
+234,591,4600,Jack Dorsey,46.0,United States,San Francisco,"Twitter, Square",Technology,United States,True,D,M,11/19/1976 0:00,4/4/2023 5:01,California,West,231
+235,591,4600,Ronald Lauder,79.0,United States,New York,Estee Lauder,Fashion & Retail,United States,False,D,M,2/26/1944 0:00,4/4/2023 5:01,New York,Northeast,231
+236,591,4600,Doug Meijer & family,69.0,United States,Grand Rapids,Supermarkets,Fashion & Retail,United States,False,Split Family Fortune,M,1/22/1954 0:00,4/4/2023 5:01,Michigan,Midwest,231
+237,591,4600,Hank Meijer & family,71.0,United States,Grand Rapids,Supermarkets,Fashion & Retail,United States,False,Split Family Fortune,M,2/15/1952 0:00,4/4/2023 5:01,Michigan,Midwest,231
+238,591,4600,Mark Meijer & family,65.0,United States,Grand Rapids,Supermarkets,Fashion & Retail,United States,False,Split Family Fortune,M,10/21/1957 0:00,4/4/2023 5:01,Michigan,Midwest,231
+239,591,4600,Fred Smith,78.0,United States,Memphis,FedEx,Logistics,United States,True,D,M,8/11/1944 0:00,4/4/2023 5:01,Tennessee,South,231
+240,591,4600,Barry Sternlicht,62.0,United States,Miami,Private equity,Finance & Investments,United States,True,U,M,11/27/1960 0:00,4/4/2023 5:01,Florida,South,231
+241,591,4600,Russ Weiner,52.0,United States,Delray Beach,Energy drinks,Food & Beverage,United States,True,U,M,5/5/1970 0:00,4/4/2023 5:01,Florida,South,231
+242,611,4500,Joseph Liemandt,54.0,United States,Austin,Software,Technology,United States,True,U,M,8/5/1968 0:00,4/4/2023 5:01,Texas,South,242
+243,611,4500,Marc Rowan,60.0,United States,New York,Private equity,Finance & Investments,United States,True,D,M,8/19/1962 0:00,4/4/2023 5:01,New York,Northeast,242
+244,624,4400,Stéphane Bancel,50.0,United States,Boston,"Biotech, vaccines",Healthcare,France,True,D,M,7/20/1972 0:00,4/4/2023 5:01,Massachusetts,Northeast,244
+245,624,4400,Margot Birmingham Perot,89.0,United States,Dallas,"Computer services, real estate",Technology,United States,False,U,F,11/15/1933 0:00,4/4/2023 5:01,Texas,South,244
+246,624,4400,Neal Blue & family,88.0,United States,San Diego,Defense,Manufacturing,United States,True,U,M,4/4/1935 0:00,4/4/2023 5:01,California,West,244
+247,624,4400,Jim Davis,63.0,United States,Cockeysville,Staffing & recruiting,Service,United States,True,U,M,3/13/1960 0:00,4/4/2023 5:01,Maryland,South,244
+248,624,4400,Jeffrey Lurie & family,71.0,United States,Wynnewood,Philadelphia Eagles,Sports,United States,False,U,M,9/8/1951 0:00,4/4/2023 5:01,Pennsylvania,Northeast,244
+249,624,4400,Joe Mansueto,66.0,United States,Chicago,Investment research,Finance & Investments,United States,True,D,M,9/3/1956 0:00,4/4/2023 5:01,Illinois,Midwest,244
+250,636,4300,Behdad Eghbali,46.0,United States,Los Angeles,Private equity,Finance & Investments,United States,True,U,M,5/6/1976 0:00,4/4/2023 5:01,California,West,250
+251,636,4300,Jose E. Feliciano,49.0,United States,Los Angeles,Private equity,Finance & Investments,United States,True,U,M,5/29/1973 0:00,4/4/2023 5:01,California,West,250
+252,636,4300,Johnelle Hunt,91.0,United States,Fayetteville,Trucking,Logistics,United States,True,D,F,1/4/1932 0:00,4/4/2023 5:01,Arkansas,South,250
+253,636,4300,Marian Ilitch,90.0,United States,Bingham Farms,Little Caesars Pizza,Food & Beverage,United States,True,D,F,1/7/1933 0:00,4/4/2023 5:01,Michigan,Midwest,250
+254,636,4300,Gwendolyn Sontheim Meyer,61.0,United States,Rancho Santa Fe,Cargill,Food & Beverage,United States,False,D,F,10/27/1961 0:00,4/4/2023 5:01,California,West,250
+255,636,4300,Jay Paul,75.0,United States,San Francisco,Real estate,Real Estate,United States,True,U,M,7/8/1947 0:00,4/4/2023 5:01,California,West,250
+256,636,4300,Jon Stryker,64.0,United States,New York,Medical equipment,Healthcare,United States,False,U,M,5/3/1958 0:00,4/4/2023 5:01,New York,Northeast,250
+257,636,4300,Herbert Wertheim,83.0,United States,Coral Gables,Investments,Finance & Investments,United States,True,U,M,5/23/1939 0:00,4/4/2023 5:01,Florida,South,250
+258,659,4200,Thomas Hagen,87.0,United States,Erie,Insurance,Finance & Investments,United States,False,U,M,1/1/1936 0:00,4/4/2023 5:01,Pennsylvania,Northeast,258
+259,659,4200,"Rupert Johnson, Jr.",82.0,United States,Burlingame,Franklin Templeton,Finance & Investments,United States,False,D,M,8/10/1940 0:00,4/4/2023 5:01,California,West,258
+260,659,4200,Min Kao & family,74.0,United States,Leawood,Navigation equipment,Technology,United States,True,D,M,1/10/1949 0:00,4/4/2023 5:01,Kansas,Midwest,258
+261,659,4200,Eric Lefkofsky,53.0,United States,Glencoe,"Groupon, investments",Technology,United States,True,U,M,9/2/1969 0:00,4/4/2023 5:01,Illinois,Midwest,258
+262,659,4200,Lin Bin,55.0,China,Shenzhen,Smartphones,Technology,United States,True,D,M,2/1/1968 0:00,4/4/2023 5:01,N/A,N/A,258
+263,659,4200,Michael Moritz,68.0,United States,San Francisco,Venture capital,Technology,United States,True,D,M,9/12/1954 0:00,4/4/2023 5:01,California,West,258
+264,659,4200,Jean (Gigi) Pritzker,60.0,United States,Los Angeles,"Hotels, investments",Service,United States,False,U,F,7/1/1962 0:00,4/4/2023 5:01,California,West,258
+265,659,4200,E. Joe Shoen,73.0,United States,Phoenix,U-Haul,Automotive,United States,False,U,M,10/28/1949 0:00,4/4/2023 5:01,Arizona,West,258
+266,659,4200,Jeff Skoll,58.0,United States,Los Angeles,EBay,Technology,United States,True,D,M,1/16/1965 0:00,4/4/2023 5:01,California,West,258
+267,659,4200,Lynsi Snyder,40.0,United States,Glendora,In-N-Out Burger,Food & Beverage,United States,False,E,F,5/5/1982 0:00,4/4/2023 5:01,California,West,258
+268,659,4200,Peter Thiel,55.0,United States,Los Angeles,"Facebook, investments",Finance & Investments,United States,True,D,M,10/11/1967 0:00,4/4/2023 5:01,California,West,258
+269,679,4100,Nick Caporella,87.0,United States,Plantation,Beverages,Food & Beverage,United States,True,U,M,1/15/1936 0:00,4/4/2023 5:01,Florida,South,269
+270,679,4100,John Catsimatidis,74.0,United States,New York,"Oil, real estate",Energy,United States,True,U,M,9/7/1948 0:00,4/4/2023 5:01,New York,Northeast,269
+271,679,4100,Scott Cook,70.0,United States,Woodside,Software,Technology,United States,True,D,M,7/26/1952 0:00,4/4/2023 5:01,California,West,269
+272,679,4100,"Jeremy Jacobs, Sr. & family",83.0,United States,East Aurora,Food service,Service,United States,False,U,M,1/21/1940 0:00,4/4/2023 5:01,New York,Northeast,269
+273,679,4100,Mary Alice Dorrance Malone,73.0,United States,Coatesville,Campbell Soup,Food & Beverage,United States,False,U,F,2/3/1950 0:00,4/4/2023 5:01,Pennsylvania,Northeast,269
+274,679,4100,Arturo Moreno,76.0,United States,Phoenix,"Billboards, Los Angeles Angels",Sports,United States,True,U,M,8/14/1946 0:00,4/4/2023 5:01,Arizona,West,269
+275,679,4100,Donald Sterling,88.0,United States,Beverly Hills,Real estate,Real Estate,United States,True,U,M,4/26/1934 0:00,4/4/2023 5:01,California,West,269
+276,679,4100,Ken Xie,60.0,United States,Los Altos Hills,Cybersecurity,Technology,United States,True,D,M,1/26/1963 0:00,4/4/2023 5:01,California,West,269
+277,699,4000,Sid Bass,80.0,United States,Fort Worth,"Oil, investments",Energy,United States,False,U,M,4/9/1942 0:00,4/4/2023 5:01,Texas,South,277
+278,699,4000,Ben Chestnut,48.0,United States,Atlanta,Email marketing,Technology,United States,True,D,M,6/15/1974 0:00,4/4/2023 5:01,Georgia,South,277
+279,699,4000,Elisabeth DeLuca & family,75.0,United States,Unknown,Subway,Food & Beverage,United States,False,N,F,7/25/1947 0:00,4/4/2023 5:01,Unknown,South,277
+280,699,4000,John Henry,73.0,United States,Boca Raton,Sports,Sports,United States,True,U,M,9/13/1949 0:00,4/4/2023 5:01,Florida,South,277
+281,699,4000,Travis Kalanick,46.0,United States,Los Angeles,Uber,Technology,United States,True,U,M,8/6/1976 0:00,4/4/2023 5:01,California,West,277
+282,699,4000,Dan Kurzius,51.0,United States,Atlanta,Email marketing,Technology,United States,True,D,M,12/1/1971 0:00,4/4/2023 5:01,Georgia,South,277
+283,699,4000,Paul Lee,65.0,China,Yuxi,Battery separators,Manufacturing,United States,True,D,M,1/1/1958 0:00,4/4/2023 5:01,N/A,N/A,277
+284,699,4000,Gail Miller,79.0,United States,Salt Lake City,Car dealerships,Automotive,United States,True,U,F,10/14/1943 0:00,4/4/2023 5:01,Utah,West,277
+285,699,4000,Isaac Perlmutter,80.0,United States,Palm Beach,Marvel comics,Media & Entertainment,United States,True,D,M,12/1/1942 0:00,4/4/2023 5:01,Florida,South,277
+286,699,4000,"Bernard Saul, II.",90.0,United States,Chevy Chase,"Banking, real estate",Finance & Investments,United States,False,U,M,4/15/1932 0:00,4/4/2023 5:01,Maryland,South,277
+287,699,4000,Steven Spielberg,76.0,United States,Pacific Palisades,Movies,Media & Entertainment,United States,True,U,M,12/18/1946 0:00,4/4/2023 5:01,California,West,277
+288,721,3900,"Austen Cargill, II.",72.0,United States,Livingston,Cargill,Food & Beverage,United States,False,D,M,3/9/1951 0:00,4/4/2023 5:01,Montana,West,288
+289,721,3900,"James Cargill, II.",73.0,United States,Birchwood,Cargill,Food & Beverage,United States,False,D,M,4/7/1949 0:00,4/4/2023 5:01,Wisconsin,Midwest,288
+290,721,3900,W. Herbert Hunt,94.0,United States,Dallas,Oil,Energy,United States,False,D,M,3/6/1929 0:00,4/4/2023 5:01,Texas,South,288
+291,721,3900,James Irsay,63.0,United States,Carmel,Indianapolis Colts,Sports,United States,False,U,M,6/13/1959 0:00,4/4/2023 5:01,Indiana,Midwest,288
+292,721,3900,Marianne Liebmann,69.0,United States,Bozeman,Cargill,Food & Beverage,United States,False,D,F,7/11/1953 0:00,4/4/2023 5:01,Montana,West,288
+293,721,3900,Gabe Newell,60.0,United States,Seattle,Videogames,Gambling & Casinos,United States,True,E,M,11/3/1962 0:00,4/4/2023 5:01,Washington,West,288
+294,721,3900,Mark Stevens,63.0,United States,Steamboat Springs,Venture capital,Finance & Investments,United States,True,D,M,2/17/1960 0:00,4/4/2023 5:01,Colorado,West,288
+295,748,3800,Barry Diller,81.0,United States,New York,Online media,Media & Entertainment,United States,True,D,M,2/2/1942 0:00,4/4/2023 5:01,New York,Northeast,295
+296,748,3800,Wesley Edens,61.0,United States,New York,Investments,Finance & Investments,United States,True,U,M,10/31/1961 0:00,4/4/2023 5:01,New York,Northeast,295
+297,748,3800,Stephen Feinberg,63.0,United States,New York,Private equity,Finance & Investments,United States,True,U,M,3/29/1960 0:00,4/4/2023 5:01,New York,Northeast,295
+298,748,3800,Rakesh Gangwal,69.0,United States,Miami,Airline,Service,United States,True,D,M,7/25/1953 0:00,4/4/2023 5:01,Florida,South,295
+299,748,3800,Joseph Grendys,61.0,United States,Chicago,Poultry processing,Food & Beverage,United States,True,U,M,12/1/1961 0:00,4/4/2023 5:01,Illinois,Midwest,295
+300,748,3800,Martha Ingram & family,87.0,United States,Nashville,"Book distribution, transportation",Media & Entertainment,United States,False,D,F,8/20/1935 0:00,4/4/2023 5:01,Tennessee,South,295
+301,748,3800,"H. Ross Perot, Jr.",64.0,United States,Dallas,Real estate,Real Estate,United States,False,U,M,11/7/1958 0:00,4/4/2023 5:01,Texas,South,295
+302,748,3800,Trevor Rees-Jones,71.0,United States,Dallas,Oil & gas,Energy,United States,True,D,M,8/12/1951 0:00,4/4/2023 5:01,Texas,South,295
+303,748,3800,Steven Udvar-Hazy,77.0,United States,Westlake,Aircraft leasing,Service,United States,True,D,M,2/23/1946 0:00,4/4/2023 5:01,Texas,South,295
+304,748,3800,Elizabeth Uihlein,77.0,United States,Lake Forest,Packaging materials,Manufacturing,United States,True,N,F,7/7/1945 0:00,4/4/2023 5:01,Illinois,Midwest,295
+305,748,3800,Richard Uihlein,77.0,United States,Lake Forest,Packaging materials,Manufacturing,United States,True,N,M,8/27/1945 0:00,4/4/2023 5:01,Illinois,Midwest,295
+306,766,3700,Hayes Barnard,51.0,United States,Austin,Fintech,Finance & Investments,United States,True,N,M,2/15/1972 0:00,4/4/2023 5:01,Texas,South,306
+307,766,3700,William Berkley,76.0,United States,Coconut Grove,Insurance,Finance & Investments,United States,True,E,M,9/1/1946 0:00,4/4/2023 5:01,Florida,South,306
+308,766,3700,Charles Cohen,71.0,United States,New York,Real estate,Real Estate,United States,False,U,M,2/8/1952 0:00,4/4/2023 5:01,New York,Northeast,306
+309,766,3700,Brad Jacobs,66.0,United States,Greenwich,Logistics,Logistics,United States,True,E,M,7/1/1956 0:00,4/4/2023 5:01,Connecticut,Northeast,306
+310,766,3700,Jim Kavanaugh,60.0,United States,St. Louis,IT provider,Technology,United States,True,U,M,10/17/1962 0:00,4/4/2023 5:01,Missouri,Midwest,306
+311,766,3700,Richard LeFrak & family,77.0,United States,New York,Real estate,Real Estate,United States,False,E,M,8/29/1945 0:00,4/4/2023 5:01,New York,Northeast,306
+312,766,3700,Daniel Och,62.0,United States,Miami Beach,Hedge funds,Finance & Investments,United States,True,D,M,1/27/1961 0:00,4/4/2023 5:01,Florida,South,306
+313,766,3700,Anthony Pritzker,62.0,United States,Los Angeles,"Hotels, investments",Service,United States,False,E,M,1/7/1961 0:00,4/4/2023 5:01,California,West,306
+314,766,3700,John Sall,75.0,United States,Cary,Software,Technology,United States,True,U,M,4/4/1948 0:00,4/4/2023 5:01,North Carolina,South,306
+315,766,3700,Howard Schultz,69.0,United States,Seattle,Starbucks,Food & Beverage,United States,True,D,M,7/19/1953 0:00,4/4/2023 5:01,Washington,West,306
+316,766,3700,Richard Schulze,82.0,United States,Naples,Best Buy,Fashion & Retail,United States,True,D,M,1/2/1941 0:00,4/4/2023 5:01,Florida,South,306
+317,787,3600,Jim Coulter,63.0,United States,San Francisco,Private equity,Finance & Investments,United States,True,U,M,12/1/1959 0:00,4/4/2023 5:01,California,West,317
+318,787,3600,Peter Kellogg,80.0,United States,Short Hills,Investments,Finance & Investments,United States,False,E,M,9/1/1942 0:00,4/4/2023 5:01,New Jersey,Northeast,317
+319,787,3600,Josh Kushner,37.0,United States,New York City,Venture capital,Finance & Investments,United States,True,U,M,6/12/1985 0:00,4/4/2023 5:01,New York,Northeast,317
+320,787,3600,"Stephen Mandel, Jr.",67.0,United States,Greenwich,Hedge funds,Finance & Investments,United States,True,D,M,3/12/1956 0:00,4/4/2023 5:01,Connecticut,Northeast,317
+321,787,3600,J.B. Pritzker,58.0,United States,Springfield,"Hotels, investments",Finance & Investments,United States,False,E,M,1/19/1965 0:00,4/4/2023 5:01,Illinois,Midwest,317
+322,787,3600,Jerry Speyer & family,82.0,United States,New York,Real estate,Real Estate,United States,True,E,M,6/23/1940 0:00,4/4/2023 5:01,New York,Northeast,317
+323,818,3500,Rocco Basilico,33.0,United States,Los Angeles,Eyeglasses,Fashion & Retail,Italy,False,N,M,7/11/1989 0:00,4/4/2023 5:01,California,West,323
+324,818,3500,Daniel D'Aniello,76.0,United States,Vienna,Private equity,Finance & Investments,United States,True,D,M,9/14/1946 0:00,4/4/2023 5:01,Virginia,South,323
+325,818,3500,Claudio Del Vecchio,66.0,United States,Muttontown,Eyeglasses,Fashion & Retail,Italy,False,N,M,2/26/1957 0:00,4/4/2023 5:01,New York,Northeast,323
+326,818,3500,Peter Gassner,58.0,United States,Pleasanton,Software,Technology,United States,True,U,M,2/26/1965 0:00,4/4/2023 5:01,California,West,323
+327,818,3500,Daniel Loeb,61.0,United States,New York,Hedge funds,Finance & Investments,United States,True,D,M,12/18/1961 0:00,4/4/2023 5:01,New York,Northeast,323
+328,818,3500,Ira Rennert,88.0,United States,New York,Investments,Finance & Investments,United States,True,D,M,5/31/1934 0:00,4/4/2023 5:01,New York,Northeast,323
+329,818,3500,Scott Shleifer,45.0,United States,New York,Private equity,Finance & Investments,United States,True,D,M,6/14/1977 0:00,4/4/2023 5:01,New York,Northeast,323
+330,818,3500,Thomas Siebel,70.0,United States,Woodside,Business software,Technology,United States,True,E,M,11/22/1952 0:00,4/4/2023 5:01,California,West,323
+331,818,3500,Michael Xie,54.0,United States,Los Altos Hills,Cybersecurity,Technology,United States,True,U,M,2/20/1969 0:00,4/4/2023 5:01,California,West,323
+332,852,3400,William Ackman,56.0,United States,New York,Hedge funds,Finance & Investments,United States,True,U,M,5/11/1966 0:00,4/4/2023 5:01,New York,Northeast,332
+333,852,3400,"Amos Hostetter, Jr.",86.0,United States,Boston,Cable television,Media & Entertainment,United States,True,D,M,1/12/1937 0:00,4/4/2023 5:01,Massachusetts,Northeast,332
+334,852,3400,Robert Johnson,75.0,United States,Palm Beach,"Johnson & Johnson, sports",Sports,United States,False,N,M,4/12/1947 0:00,4/4/2023 5:01,Florida,South,332
+335,852,3400,Steven Klinsky,66.0,United States,New York,Investments,Finance & Investments,United States,True,E,M,5/30/1956 0:00,4/4/2023 5:01,New York,Northeast,332
+336,852,3400,William Lauder,62.0,United States,New York,Estee Lauder,Fashion & Retail,United States,False,D,M,4/11/1960 0:00,4/4/2023 5:01,New York,Northeast,332
+337,852,3400,John Middleton,68.0,United States,Bryn Mawr,Tobacco,Food & Beverage,United States,False,E,M,3/2/1955 0:00,4/4/2023 5:01,Pennsylvania,Northeast,332
+338,852,3400,Bob Parsons,72.0,United States,Scottsdale,Web hosting,Technology,United States,True,E,M,11/27/1950 0:00,4/4/2023 5:01,Arizona,West,332
+339,852,3400,J. Joe Ricketts & family,81.0,United States,Little Jackson Hole,TD Ameritrade,Finance & Investments,United States,True,D,M,7/16/1941 0:00,4/4/2023 5:01,Wyoming,South,332
+340,852,3400,Herb Simon,88.0,United States,Indianapolis,Real estate,Real Estate,United States,True,D,M,10/23/1934 0:00,4/4/2023 5:01,Indiana,Midwest,332
+341,852,3400,Eric Yuan & family,53.0,United States,Santa Clara,Zoom Video Communications,Technology,United States,True,D,M,2/20/1970 0:00,4/4/2023 5:01,California,West,332
+342,852,3400,Charles Zegar,75.0,United States,New York,Bloomberg LP,Media & Entertainment,United States,True,U,M,2/29/1948 0:00,4/4/2023 5:01,New York,Northeast,332
+343,878,3300,John Arnold,49.0,United States,Houston,Hedge funds,Finance & Investments,United States,True,E,M,3/9/1974 0:00,4/4/2023 5:01,Texas,South,343
+344,878,3300,Bill Austin,81.0,United States,Brownsville,Hearing aids,Manufacturing,United States,True,U,M,2/25/1942 0:00,4/4/2023 5:01,Texas,South,343
+345,878,3300,Bennett Dorrance,77.0,United States,Paradise Valley,Campbell Soup,Food & Beverage,United States,False,U,M,2/9/1946 0:00,4/4/2023 5:01,Arizona,West,343
+346,878,3300,Pablo Legorreta,59.0,United States,Sag Harbor,Investments,Finance & Investments,United States,True,D,M,10/30/1963 0:00,4/4/2023 5:01,New York,Northeast,343
+347,878,3300,Rodger Riney & family,77.0,United States,St. Louis,Discount brokerage,Finance & Investments,United States,True,D,M,1/1/1946 0:00,4/4/2023 5:01,Missouri,Midwest,343
+348,878,3300,Phil Ruffin,88.0,United States,Las Vegas,"Casinos, real estate",Diversified,United States,True,U,M,3/17/1935 0:00,4/4/2023 5:01,Nevada,West,343
+349,878,3300,Jeffrey Talpins,48.0,United States,Larchmont,Hedge fund,Finance & Investments,United States,True,U,M,3/6/1975 0:00,4/4/2023 5:01,New York,Northeast,343
+350,878,3300,Carl Thoma,74.0,United States,Dallas,Investments,Finance & Investments,United States,True,U,M,10/12/1948 0:00,4/4/2023 5:01,Texas,South,343
+351,878,3300,Todd Wanek,59.0,United States,St. Petersburg,Furniture,Manufacturing,United States,False,D,M,3/16/1964 0:00,4/4/2023 5:01,Florida,South,343
+352,905,3200,Ron Burkle,70.0,United Kingdom,London,"Supermarkets, investments",Finance & Investments,United States,True,U,M,11/12/1952 0:00,4/4/2023 5:01,N/A,N/A,352
+353,905,3200,Charles Ergen,70.0,United States,Denver,Satellite TV,Media & Entertainment,United States,True,D,M,3/1/1953 0:00,4/4/2023 5:01,Colorado,West,352
+354,905,3200,David Filo,56.0,United States,Palo Alto,Yahoo,Technology,United States,True,D,M,4/15/1966 0:00,4/4/2023 5:01,California,West,352
+355,905,3200,Hamilton James & family,71.0,United States,New York,Investments,Finance & Investments,United States,True,U,M,8/3/1951 0:00,4/4/2023 5:01,New York,Northeast,352
+356,905,3200,Geoffrey Palmer,72.0,United States,Beverly Hills,Real estate,Real Estate,United States,False,N,M,5/11/1950 0:00,4/4/2023 5:01,California,West,352
+357,905,3200,Roger Penske,86.0,United States,Birmingham,Cars,Automotive,United States,True,U,M,2/20/1937 0:00,4/4/2023 5:01,Michigan,Midwest,352
+358,905,3200,David Rubenstein,73.0,United States,Bethesda,Private equity,Finance & Investments,United States,True,D,M,8/11/1949 0:00,4/4/2023 5:01,Maryland,South,352
+359,905,3200,Hilton Schlosberg,70.0,United States,Irvine,Energy drinks,Food & Beverage,United Kingdom,True,U,M,1/1/1953 0:00,4/4/2023 5:01,California,West,352
+360,905,3200,Lynn Schusterman & family,84.0,United States,Tulsa,"Oil & gas, investments",Energy,United States,False,D,F,1/21/1939 0:00,4/4/2023 5:01,Oklahoma,South,352
+361,905,3200,Warren Stephens,66.0,United States,Little Rock,Investment banking,Finance & Investments,United States,False,U,M,2/18/1957 0:00,4/4/2023 5:01,Arkansas,South,352
+362,905,3200,Pat Stryker,66.0,United States,Fort Collins,Medical equipment,Healthcare,United States,False,U,F,4/6/1956 0:00,4/4/2023 5:01,Colorado,West,352
+363,905,3200,Vincent Viola,67.0,United States,New York,Electronic trading,Finance & Investments,United States,True,D,M,2/12/1956 0:00,4/4/2023 5:01,New York,Northeast,352
+364,905,3200,Steve Wynn,81.0,United States,Palm Beach,"Casinos, hotels",Gambling & Casinos,United States,True,D,M,1/27/1942 0:00,4/4/2023 5:01,Florida,South,352
+365,905,3200,Jon Yarbrough,65.0,United States,Franklin,Video games,Gambling & Casinos,United States,True,U,M,5/10/1957 0:00,4/4/2023 5:01,Tennessee,South,352
+366,949,3100,Ryan Cohen,37.0,United States,Bal Harbour,Investments,Finance & Investments,Canada,True,U,M,8/4/1985 0:00,4/4/2023 5:01,Florida,South,366
+367,949,3100,Jeff T. Green,46.0,United States,Newbury Park,Digital advertising,Media & Entertainment,United States,True,D,M,3/30/1977 0:00,4/4/2023 5:01,California,West,366
+368,949,3100,Reed Hastings,62.0,United States,Santa Cruz,Netflix,Technology,United States,True,D,M,10/8/1960 0:00,4/4/2023 5:01,California,West,366
+369,949,3100,Aerin Lauder,52.0,United States,New York,Estee Lauder,Fashion & Retail,United States,False,D,F,4/23/1970 0:00,4/4/2023 5:01,New York,Northeast,366
+370,949,3100,Sheldon Lavin,90.0,United States,Highland Park,Meat processing,Food & Beverage,United States,True,U,M,6/17/1932 0:00,4/4/2023 5:01,Illinois,Unknown,366
+371,949,3100,Jonathan Nelson,66.0,United States,Providence,Private equity,Finance & Investments,United States,True,U,M,5/18/1956 0:00,4/4/2023 5:01,Rhode Island,Northeast,366
+372,949,3100,Katharina Otto-Bernstein,59.0,United States,New York,Real estate,Real Estate,Germany,False,D,F,1/1/1964 0:00,4/4/2023 5:01,New York,Northeast,366
+373,949,3100,Penny Pritzker,63.0,United States,Chicago,"Hotels, investments",Finance & Investments,United States,False,D,F,5/2/1959 0:00,4/4/2023 5:01,Illinois,Midwest,366
+374,949,3100,Frank VanderSloot,74.0,United States,Idaho Falls,"Nutrition, wellness products",Fashion & Retail,United States,True,U,M,8/14/1948 0:00,4/4/2023 5:01,Idaho,West,366
+375,982,3000,Nicolas Berggruen,61.0,United States,Beverly Hills,"Real estate, investments",Real Estate,United States,False,U,M,8/10/1961 0:00,4/4/2023 5:01,California,West,375
+376,982,3000,George Bishop,85.0,United States,The Woodlands,Oil & gas,Energy,United States,True,U,M,10/6/1937 0:00,4/4/2023 5:01,Texas,South,375
+377,982,3000,Norman Braman,90.0,United States,Miami,"Art, car dealerships",Automotive,United States,True,U,M,8/22/1932 0:00,4/4/2023 5:01,Florida,South,375
+378,982,3000,Todd Christopher,60.0,United States,Clearwater,Hair care products,Fashion & Retail,United States,True,E,M,10/8/1962 0:00,4/4/2023 5:01,Florida,South,375
+379,982,3000,"William Conway, Jr.",73.0,United States,McLean,Private equity,Finance & Investments,United States,True,D,M,8/27/1949 0:00,4/4/2023 5:01,Virginia,South,375
+380,982,3000,"Edward DeBartolo, Jr.",76.0,United States,Tampa,Shopping centers,Real Estate,United States,False,U,M,11/6/1946 0:00,4/4/2023 5:01,Florida,South,375
+381,982,3000,Stephen Deckoff,57.0,United States,St. John,Private equity,Finance & Investments,United States,True,N,M,11/4/1965 0:00,4/4/2023 5:01,U.S. Virgin Islands,U.S. Territories,375
+382,982,3000,"Ernest Garcia, II.",65.0,United States,Tempe,Used cars,Automotive,United States,True,D,M,5/21/1957 0:00,4/4/2023 5:01,Arizona,West,375
+383,982,3000,John Paulson,67.0,United States,New York,Hedge funds,Finance & Investments,United States,True,D,M,12/14/1955 0:00,4/4/2023 5:01,New York,Northeast,375
+384,982,3000,Robert Sands,64.0,United States,Delray Beach,Liquor,Food & Beverage,United States,False,Split Family Fortune,M,6/10/1958 0:00,4/4/2023 5:01,Florida,South,375
+385,1027,2900,"Roy Carroll, II.",60.0,United States,Greensboro,Real estate,Real Estate,United States,True,N,M,11/1/1962 0:00,4/4/2023 5:01,North Carolina,South,385
+386,1027,2900,James Clark,79.0,United States,Palm Beach,"Netscape, investments",Technology,United States,True,D,M,3/23/1944 0:00,4/4/2023 5:01,Florida,South,385
+387,1027,2900,John Paul DeJoria,78.0,United States,Austin,"Hair products, tequila",Fashion & Retail,United States,True,U,M,4/13/1944 0:00,4/4/2023 5:01,Texas,South,385
+388,1027,2900,Kenneth Feld & family,74.0,United States,Sarasota,Live entertainment,Media & Entertainment,United States,False,U,M,10/31/1948 0:00,4/4/2023 5:01,Florida,South,385
+389,1027,2900,Donald Horton & family,73.0,United States,Fort Worth,Homebuilding,Real Estate,United States,True,U,M,3/5/1950 0:00,4/4/2023 5:01,Texas,South,385
+390,1027,2900,Haim Saban,78.0,United States,Beverly Hills,"TV network, investments",Media & Entertainment,United States,True,D,M,10/15/1944 0:00,4/4/2023 5:01,California,West,385
+391,1027,2900,Rodney Sacks,73.0,United States,Laguna Beach,Energy drinks,Food & Beverage,United States,True,U,M,12/24/1949 0:00,4/4/2023 5:01,California,West,385
+392,1027,2900,Karthik Sarma,48.0,United States,New York,Hedge fund,Finance & Investments,India,True,D,M,12/1/1974 0:00,4/4/2023 5:01,New York,Northeast,385
+393,1027,2900,Daniel Sundheim,46.0,United States,New York,Hedge funds,Finance & Investments,United States,True,D,M,3/29/1977 0:00,4/4/2023 5:01,New York,Northeast,385
+394,1027,2900,"William Wrigley, Jr.",59.0,United States,North Palm Beach,Chewing gum,Food & Beverage,United States,False,D,M,11/1/1963 0:00,4/4/2023 5:01,Florida,South,385
+395,1067,2800,Garrett Camp,44.0,United States,San Francisco,Uber,Technology,Canada,True,E,M,10/4/1978 0:00,4/4/2023 5:01,California,West,395
+396,1067,2800,Eleanor Butt Crook & family,90.0,United States,San Marcos,Supermarkets,Fashion & Retail,United States,False,N,F,7/21/1932 0:00,4/4/2023 5:01,Texas,South,395
+397,1067,2800,Lorenzo Fertitta,54.0,United States,Las Vegas,"Casinos, mixed martial arts",Sports,United States,False,U,M,1/3/1969 0:00,4/4/2023 5:01,Nevada,West,395
+398,1067,2800,"Drayton McLane, Jr.",86.0,United States,Temple,"Walmart, logistics",Fashion & Retail,United States,False,D,M,7/22/1936 0:00,4/4/2023 5:01,Texas,South,395
+399,1067,2800,Sean Parker,43.0,United States,Los Angeles,Facebook,Technology,United States,True,E,M,12/3/1979 0:00,4/4/2023 5:01,California,West,395
+400,1067,2800,Stewart Rahr,77.0,United States,New York,Drug distribution,Healthcare,United States,False,U,M,2/18/1946 0:00,4/4/2023 5:01,New York,Northeast,395
+401,1067,2800,Meg Whitman,66.0,United States,Los Angeles,EBay,Technology,United States,True,D,F,8/4/1956 0:00,4/4/2023 5:01,California,West,395
+402,1104,2700,Glenn Dubin,65.0,United States,New York,Hedge funds,Finance & Investments,United States,True,U,M,4/13/1957 0:00,4/4/2023 5:01,New York,Northeast,402
+403,1104,2700,"Frank Fertitta, III.",61.0,United States,Las Vegas,"Casinos, mixed martial arts",Sports,United States,False,U,M,2/24/1962 0:00,4/4/2023 5:01,Nevada,West,402
+404,1104,2700,Robert Friedland,72.0,Singapore,Singapore,Mining,Metals & Mining,United States,True,U,M,8/18/1950 0:00,4/4/2023 5:01,N/A,N/A,402
+405,1104,2700,Maggie Hardy,57.0,United States,Belle Vernon,Building materials,Service,United States,False,U,F,12/7/1965 0:00,4/4/2023 5:01,Pennsylvania,Northeast,402
+406,1104,2700,Frank Laukien,63.0,United States,Boston,Scientific equipment,Manufacturing,United States,False,U,M,2/4/1960 0:00,4/4/2023 5:01,Massachusetts,Northeast,402
+407,1104,2700,Vincent McMahon,77.0,United States,Greenwich,Entertainment,Sports,United States,True,U,M,8/24/1945 0:00,4/4/2023 5:01,Connecticut,Northeast,402
+408,1104,2700,Richard Peery,84.0,United States,Palo Alto,Real estate,Real Estate,United States,True,D,M,10/1/1938 0:00,4/4/2023 5:01,California,West,402
+409,1104,2700,Wayne Rothbaum,55.0,United States,Delray Beach,Biotech investing,Healthcare,United States,True,N,M,2/17/1968 0:00,4/4/2023 5:01,Florida,South,402
+410,1104,2700,Jeff Rothschild,68.0,United States,Palo Alto,Facebook,Technology,United States,True,D,M,1/2/1955 0:00,4/4/2023 5:01,California,West,402
+411,1104,2700,Raj Sardana,63.0,United States,Atlanta,Technology services,Technology,United States,True,N,M,3/8/1960 0:00,4/4/2023 5:01,Georgia,South,402
+412,1104,2700,Evan Spiegel,32.0,United States,Los Angeles,Snapchat,Technology,United States,True,D,M,6/4/1990 0:00,4/4/2023 5:01,California,West,402
+413,1104,2700,Glen Taylor,81.0,United States,Mankato,Printing,Service,United States,True,U,M,4/20/1941 0:00,4/4/2023 5:01,Minnesota,Midwest,402
+414,1104,2700,Thomas Tull,52.0,United States,Pittsburgh,"Movies, investments",Media & Entertainment,United States,True,U,M,6/11/1970 0:00,4/4/2023 5:01,Pennsylvania,Northeast,402
+415,1164,2600,Ben Ashkenazy,53.0,United States,New York,Real estate,Real Estate,United States,True,D,M,9/23/1969 0:00,4/4/2023 5:01,New York,Northeast,415
+416,1164,2600,Felix Baker,54.0,United States,New York,Biotech investing,Finance & Investments,United States,True,D,M,3/29/1969 0:00,4/4/2023 5:01,New York,Northeast,415
+417,1164,2600,Julian Baker,56.0,United States,New York,Investing,Finance & Investments,United States,True,D,M,5/21/1966 0:00,4/4/2023 5:01,New York,Northeast,415
+418,1164,2600,David Baszucki,60.0,United States,San Francisco,Online games,Media & Entertainment,United States,True,U,M,1/20/1963 0:00,4/4/2023 5:01,California,West,415
+419,1164,2600,Ray Davis,81.0,United States,Dallas,Pipelines,Energy,United States,True,U,M,12/18/1941 0:00,4/4/2023 5:01,Texas,South,415
+420,1164,2600,Stewart Horejsi & family,85.0,United States,Phoenix,Berkshire Hathaway,Finance & Investments,United States,True,D,M,9/19/1937 0:00,4/4/2023 5:01,Arizona,West,415
+421,1164,2600,Henry Laufer,77.0,United States,Lake Worth,Hedge funds,Finance & Investments,United States,True,U,M,8/13/1945 0:00,4/4/2023 5:01,Florida,South,415
+422,1164,2600,C. Dean Metropoulos,76.0,United States,Palm Beach,Investments,Food & Beverage,United States,True,D,M,5/5/1946 0:00,4/4/2023 5:01,Florida,South,415
+423,1164,2600,James Packer,55.0,United States,Los Angeles,Investments,Finance & Investments,Australia,False,D,M,9/8/1967 0:00,4/4/2023 5:01,California,West,415
+424,1164,2600,Nicholas Pritzker,79.0,United States,Nicasio,"Hotels, investments",Finance & Investments,United States,False,D,M,1/1/1944 0:00,4/4/2023 5:01,California,West,415
+425,1164,2600,Alejandro Santo Domingo,46.0,United States,New York,Beer,Food & Beverage,United States,False,E,M,2/13/1977 0:00,4/4/2023 5:01,New York,Northeast,415
+426,1164,2600,Steven Sarowitz,57.0,United States,Highland Park,Payroll software,Technology,United States,True,D,M,11/7/1965 0:00,4/4/2023 5:01,Illinois,Midwest,415
+427,1164,2600,Leonard Schleifer,70.0,United States,Tarrytown,Pharmaceuticals,Healthcare,United States,True,U,M,7/7/1952 0:00,4/4/2023 5:01,New York,Northeast,415
+428,1164,2600,Michael S. Smith,67.0,United States,Miami Beach,Liquefied natural gas,Energy,United States,True,U,M,5/9/1955 0:00,4/4/2023 5:01,Florida,South,415
+429,1164,2600,John Tyson & family,69.0,United States,Springdale,Food processing,Food & Beverage,United States,False,D,M,9/5/1953 0:00,4/4/2023 5:01,Arkansas,South,415
+430,1217,2500,S. Daniel Abraham,98.0,United States,Palm Beach,Slim-Fast,Food & Beverage,United States,True,U,M,8/15/1924 0:00,4/4/2023 5:01,Florida,South,430
+431,1217,2500,Bill Alfond,74.0,United States,Boston,Shoes,Fashion & Retail,United States,False,D,M,5/16/1948 0:00,4/4/2023 5:01,Massachusetts,Northeast,430
+432,1217,2500,Susan Alfond,77.0,United States,Scarborough,Shoes,Fashion & Retail,United States,False,D,F,7/19/1945 0:00,4/4/2023 5:01,Maine,Northeast,430
+433,1217,2500,Ted Alfond,78.0,United States,Weston,Shoes,Fashion & Retail,United States,False,D,M,8/19/1944 0:00,4/4/2023 5:01,Massachusetts,Northeast,430
+434,1217,2500,Riley Bechtel & family,71.0,United States,San Francisco,"Engineering, construction",Construction & Engineering,United States,False,D,M,3/25/1952 0:00,4/4/2023 5:01,California,West,430
+435,1217,2500,Charles Bronfman,91.0,United States,Palm Beach,Liquor,Food & Beverage,Canada,False,E,M,6/27/1931 0:00,4/4/2023 5:01,Florida,South,430
+436,1217,2500,Herb Chambers,81.0,United States,Boston,Car dealerships,Automotive,United States,True,U,M,1/1/1942 0:00,4/4/2023 5:01,Massachusetts,Northeast,430
+437,1217,2500,Andrew Cherng,75.0,United States,Las Vegas,Fast food,Food & Beverage,United States,True,Split Family Fortune,M,4/2/1948 0:00,4/4/2023 5:01,Nevada,West,430
+438,1217,2500,Peggy Cherng,75.0,United States,Las Vegas,Fast food,Food & Beverage,United States,True,Split Family Fortune,F,12/18/1947 0:00,4/4/2023 5:01,Nevada,West,430
+439,1217,2500,Leon G. Cooperman,79.0,United States,Boca Raton,Hedge funds,Finance & Investments,United States,True,E,M,4/25/1943 0:00,4/4/2023 5:01,Florida,South,430
+440,1217,2500,Henry Davis,72.0,United States,Omaha,Beef processing,Food & Beverage,United States,False,U,M,2/16/1951 0:00,4/4/2023 5:01,Nebraska,Midwest,430
+441,1217,2500,Joseph Edelman,67.0,United States,New York,Hedge funds,Finance & Investments,United States,True,D,M,6/10/1955 0:00,4/4/2023 5:01,New York,Northeast,430
+442,1217,2500,Alec Gores,70.0,United States,Beverly Hills,Private equity,Finance & Investments,United States,True,D,M,3/18/1953 0:00,4/4/2023 5:01,California,West,430
+443,1217,2500,Bill Haslam,64.0,United States,Knoxville,Gas stations,Fashion & Retail,United States,False,U,M,8/23/1958 0:00,4/4/2023 5:01,Tennessee,South,430
+444,1217,2500,J. Tomilson Hill,74.0,United States,New York,Investments,Finance & Investments,United States,True,D,M,5/24/1948 0:00,4/4/2023 5:01,New York,Northeast,430
+445,1217,2500,Jay-Z,53.0,United States,New York,Music,Media & Entertainment,United States,True,U,M,12/4/1969 0:00,4/4/2023 5:01,New York,Northeast,430
+446,1217,2500,Brad Kelley,66.0,United States,Franklin,Tobacco,Real Estate,United States,True,D,M,12/23/1956 0:00,4/4/2023 5:01,Tennessee,South,430
+447,1217,2500,Bobby Murphy,34.0,United States,Venice,Snapchat,Technology,United States,True,D,M,7/19/1988 0:00,4/4/2023 5:01,California,West,430
+448,1217,2500,Eren Ozmen,64.0,United States,Reno,Aerospace,Manufacturing,United States,True,D,F,9/3/1958 0:00,4/4/2023 5:01,Nevada,West,430
+449,1217,2500,John Pritzker,69.0,United States,San Francisco,"Hotels, investments",Finance & Investments,United States,False,D,M,8/10/1953 0:00,4/4/2023 5:01,California,West,430
+450,1217,2500,Jeff Sutton,63.0,United States,New York,Real estate,Real Estate,United States,True,D,M,1/17/1960 0:00,4/4/2023 5:01,New York,Northeast,430
+451,1217,2500,Byron Trott,64.0,United States,Winnetka,Investments,Finance & Investments,United States,True,U,M,12/2/1958 0:00,4/4/2023 5:01,Illinois,Midwest,430
+452,1217,2500,Donald Trump,76.0,United States,Palm Beach,Real estate,Real Estate,United States,False,D,M,6/14/1946 0:00,4/4/2023 5:01,Florida,South,430
+453,1217,2500,Roger Wang,74.0,China,Nanjing,Retail,Fashion & Retail,United States,True,D,M,1/1/1949 0:00,4/4/2023 5:01,N/A,N/A,430
+454,1217,2500,Oprah Winfrey,69.0,United States,Montecito,TV shows,Media & Entertainment,United States,True,D,F,1/29/1954 0:00,4/4/2023 5:01,California,West,430
+455,1272,2400,Brian Acton,51.0,United States,Palo Alto,WhatsApp,Technology,United States,True,D,M,2/17/1972 0:00,4/4/2023 5:01,California,West,455
+456,1272,2400,Edward Bass,77.0,United States,Fort Worth,"Oil, investments",Energy,United States,False,E,M,9/10/1945 0:00,4/4/2023 5:01,Texas,South,455
+457,1272,2400,Chen Tei-fu,74.0,United States,Los Angeles,Herbal products,Fashion & Retail,Taiwan,True,D,M,4/19/1948 0:00,4/4/2023 5:01,California,West,455
+458,1272,2400,Doris Fisher,91.0,United States,San Francisco,Gap,Fashion & Retail,United States,True,D,F,8/23/1931 0:00,4/4/2023 5:01,California,West,455
+459,1272,2400,Gerald Ford,78.0,United States,Dallas,Banking,Finance & Investments,United States,True,D,M,8/4/1944 0:00,4/4/2023 5:01,Texas,South,455
+460,1272,2400,Catherine Lozick,77.0,United States,Fort Lauderdale,Valve manufacturing,Manufacturing,United States,False,U,F,5/1/1945 0:00,4/4/2023 5:01,Florida,South,455
+461,1272,2400,Jed McCaleb,48.0,United States,Berkeley,Cryptocurrency,Finance & Investments,United States,True,D,M,1/1/1975 0:00,4/4/2023 5:01,California,West,455
+462,1272,2400,Fatih Ozmen,65.0,United States,Reno,Aerospace,Manufacturing,United States,True,D,M,2/2/1958 0:00,4/4/2023 5:01,Nevada,West,455
+463,1272,2400,Tor Peterson,58.0,Switzerland,Zug,Commodities,Metals & Mining,United States,True,D,M,8/7/1964 0:00,4/4/2023 5:01,N/A,N/A,455
+464,1272,2400,Daniel Pritzker,63.0,United States,Marin County,"Hotels, investments",Finance & Investments,United States,False,D,M,9/15/1959 0:00,4/4/2023 5:01,California,West,455
+465,1272,2400,Ted Turner,84.0,United States,Atlanta,Cable television,Media & Entertainment,United States,False,U,M,11/19/1938 0:00,4/4/2023 5:01,Georgia,South,455
+466,1272,2400,David Walentas,84.0,United States,New York,Real estate,Real Estate,United States,True,U,M,8/7/1938 0:00,4/4/2023 5:01,New York,Northeast,455
+467,1272,2400,Jerry Yang,54.0,United States,Los Altos Hills,Yahoo,Technology,United States,True,D,M,11/6/1968 0:00,4/4/2023 5:01,California,West,455
+468,1272,2400,Mortimer Zuckerman,85.0,United States,New York,"Real estate, media",Real Estate,United States,True,D,M,6/4/1937 0:00,4/4/2023 5:01,New York,Northeast,455
+469,1312,2300,Lee Bass,66.0,United States,Fort Worth,"Oil, investments",Energy,United States,False,U,M,5/24/1956 0:00,4/4/2023 5:01,Texas,South,469
+470,1312,2300,John Bicket,43.0,United States,San Francisco,Sensor systems,Technology,United States,True,U,M,3/20/1980 0:00,4/4/2023 5:01,California,West,469
+471,1312,2300,Sanjit Biswas,41.0,United States,San Francisco,Sensor systems,Technology,United States,True,U,M,1/12/1982 0:00,4/4/2023 5:01,California,West,469
+472,1312,2300,Timothy Boyle,73.0,United States,Portland,Columbia Sportswear,Fashion & Retail,United States,True,E,M,9/7/1949 0:00,4/4/2023 5:01,Oregon,West,469
+473,1312,2300,James Duff,62.0,United States,Hattiesburg,"Tires, diversified",Diversified,United States,True,U,M,3/7/1961 0:00,4/4/2023 5:01,Mississippi,South,469
+474,1312,2300,Thomas Duff,66.0,United States,Hattiesburg,"Tires, diversified",Diversified,United States,True,U,M,12/31/1956 0:00,4/4/2023 5:01,Mississippi,South,469
+475,1312,2300,John Fisher,61.0,United States,San Francisco,Gap,Fashion & Retail,United States,False,D,M,6/1/1961 0:00,4/4/2023 5:01,California,West,469
+476,1312,2300,Justin Ishbia,45.0,United States,Chicago,Private equity,Finance & Investments,United States,False,U,M,9/18/1977 0:00,4/4/2023 5:01,Illinois,Midwest,469
+477,1312,2300,Bruce Karsh,67.0,United States,Los Angeles,Private equity,Finance & Investments,United States,True,U,M,10/10/1955 0:00,4/4/2023 5:01,California,West,469
+478,1312,2300,Bom Kim,44.0,South Korea,Seoul,Online retailing,Technology,United States,True,D,M,10/1/1978 0:00,4/4/2023 5:01,N/A,N/A,469
+479,1312,2300,Clayton Mathile,82.0,United States,Brookville,Pet food,Food & Beverage,United States,True,E,M,1/11/1941 0:00,4/4/2023 5:01,Ohio,Unknown,469
+480,1312,2300,David Murdock,99.0,United States,Ventura,"Dole, real estate",Food & Beverage,United States,True,E,M,4/10/1923 0:00,4/4/2023 5:01,California,West,469
+481,1312,2300,David Nahmad,75.0,United States,New York,Art collection,Fashion & Retail,Monaco,True,U,M,4/14/1947 0:00,4/4/2023 5:01,New York,Northeast,469
+482,1312,2300,Richard Sands,72.0,United States,Delray Beach,Liquor,Food & Beverage,United States,False,Split Family Fortune,M,3/3/1951 0:00,4/4/2023 5:01,Florida,South,469
+483,1312,2300,Stefan Soloviev,47.0,United States,Delray Beach,"Real estate, grains",Real Estate,United States,False,N,M,5/21/1975 0:00,4/4/2023 5:01,Florida,South,469
+484,1312,2300,Jayshree Ullal,62.0,United States,Saratoga,Computer networking,Technology,United States,True,U,F,3/27/1961 0:00,4/4/2023 5:01,California,West,469
+485,1368,2200,George Argyros & family,86.0,United States,Newport Beach,"Real estate, investments",Real Estate,United States,True,D,M,2/4/1937 0:00,4/4/2023 5:01,California,West,485
+486,1368,2200,Brian Armstrong,40.0,United States,San Francisco,Cryptocurrency,Finance & Investments,United States,True,D,M,1/25/1983 0:00,4/4/2023 5:01,California,West,485
+487,1368,2200,Aneel Bhusri,57.0,United States,San Francisco,Business software,Technology,United States,True,D,M,2/4/1966 0:00,4/4/2023 5:01,California,West,485
+488,1368,2200,J. Hyatt Brown,85.0,United States,Ormond Beach,Insurance,Finance & Investments,United States,False,D,M,7/12/1937 0:00,4/4/2023 5:01,Florida,South,485
+489,1368,2200,Tom Ford,61.0,United States,Los Angeles,Fashion,Fashion & Retail,United States,True,N,M,8/27/1961 0:00,4/4/2023 5:01,California,West,485
+490,1368,2200,Noam Gottesman,61.0,United States,New York,Hedge funds,Finance & Investments,United States,True,D,M,5/24/1961 0:00,4/4/2023 5:01,New York,Northeast,485
+491,1368,2200,Jeffrey Gundlach,64.0,United States,Los Angeles,Investments,Finance & Investments,United States,True,E,M,1/1/1959 0:00,4/4/2023 5:01,California,West,485
+492,1368,2200,Hao Hong,67.0,China,Tianjin,Pharmaceuticals,Healthcare,United States,True,D,M,1/1/1956 0:00,4/4/2023 5:01,N/A,N/A,485
+493,1368,2200,Thomas James,80.0,United States,Saint Petersburg,Finance,Finance & Investments,United States,False,U,M,5/10/1942 0:00,4/4/2023 5:01,Florida,South,485
+494,1368,2200,James Jannard,73.0,United States,San Juan Islands,Sunglasses,Fashion & Retail,United States,True,D,M,6/8/1949 0:00,4/4/2023 5:01,Washington,West,485
+495,1368,2200,Willis Johnson,75.0,United States,Franklin,Damaged cars,Automotive,United States,True,U,M,5/26/1947 0:00,4/4/2023 5:01,Tennessee,South,485
+496,1368,2200,Chris Larsen,62.0,United States,San Francisco,Cryptocurrency,Finance & Investments,United States,True,D,M,6/15/1960 0:00,4/4/2023 5:01,California,West,485
+497,1368,2200,Max Lytvyn,43.0,United States,San Francisco,Software,Technology,Canada,True,D,M,1/1/1980 0:00,4/4/2023 5:01,California,West,485
+498,1368,2200,Igor Makarov,60.0,United States,Miami,Investments,Energy,Cyprus,True,U,M,4/15/1962 0:00,4/4/2023 5:01,Florida,South,485
+499,1368,2200,Howard Marks,76.0,United States,New York,Private equity,Finance & Investments,United States,True,E,M,4/23/1946 0:00,4/4/2023 5:01,New York,Northeast,485
+500,1368,2200,Charles Munger,99.0,United States,Los Angeles,Berkshire Hathaway,Finance & Investments,United States,True,D,M,1/1/1924 0:00,4/4/2023 5:01,California,West,485
+501,1368,2200,Adam Neumann,44.0,United States,Miami,WeWork,Real Estate,Israel,True,U,M,4/1/1979 0:00,4/4/2023 5:01,Florida,South,485
+502,1368,2200,Phillip T. (Terry) Ragon,73.0,United States,Boston,Health IT,Technology,United States,True,U,M,6/1/1949 0:00,4/4/2023 5:01,Massachusetts,Northeast,485
+503,1368,2200,Jerry Reinsdorf,87.0,United States,Chicago,Sports teams,Sports,United States,True,U,M,2/25/1936 0:00,4/4/2023 5:01,Illinois,Midwest,485
+504,1368,2200,Chad Richison,52.0,United States,Edmond,Payroll processing,Technology,United States,True,D,M,10/10/1970 0:00,4/4/2023 5:01,Oklahoma,South,485
+505,1368,2200,Alice Schwartz,96.0,United States,El Cerrito,Biotech,Healthcare,United States,True,U,F,7/2/1926 0:00,4/4/2023 5:01,California,West,485
+506,1368,2200,Kavitark Ram Shriram,66.0,United States,Menlo Park,"Venture capital, Google",Technology,United States,True,D,M,1/21/1957 0:00,4/4/2023 5:01,California,West,485
+507,1368,2200,Jeffrey Soffer,55.0,United States,Aventura,Real estate,Real Estate,United States,False,N,M,12/13/1967 0:00,4/4/2023 5:01,Florida,South,485
+508,1368,2200,William Stone,67.0,United States,East Lyme,Software,Technology,United States,True,D,M,4/9/1955 0:00,4/4/2023 5:01,Connecticut,Northeast,485
+509,1368,2200,Henry Swieca,65.0,United States,New York,Hedge funds,Finance & Investments,United States,True,U,M,5/9/1957 0:00,4/4/2023 5:01,New York,Northeast,485
+510,1368,2200,Oren Zeev,58.0,United States,Los Altos,Investments,Finance & Investments,Israel,True,D,M,9/23/1964 0:00,4/4/2023 5:01,California,West,485
+511,1434,2100,Travis Boersma,52.0,United States,Grants Pass,Coffee,Food & Beverage,United States,True,D,M,1/1/1971 0:00,4/4/2023 5:01,Oregon,West,511
+512,1434,2100,William Boyd & family,91.0,United States,Las Vegas,"Casinos, banking",Gambling & Casinos,United States,True,D,M,11/4/1931 0:00,4/4/2023 5:01,Nevada,West,511
+513,1434,2100,Paul Foster,65.0,United States,El Paso,Oil refining,Energy,United States,True,U,M,10/8/1957 0:00,4/4/2023 5:01,Texas,South,511
+514,1434,2100,Gordon Getty,89.0,United States,San Francisco,Getty Oil,Energy,United States,False,E,M,12/20/1933 0:00,4/4/2023 5:01,California,West,511
+515,1434,2100,Kamal Ghaffarian,64.0,United States,Naples,"Space, energy",Energy,United States,True,N,M,4/28/1958 0:00,4/4/2023 5:01,Florida,South,511
+516,1434,2100,Dennis Gillings,78.0,United States,Durham,Clinical trials,Healthcare,United Kingdom,True,E,M,4/25/1944 0:00,4/4/2023 5:01,North Carolina,South,511
+517,1434,2100,Jane Goldman,67.0,United States,New York,Real estate,Real Estate,United States,False,D,F,7/29/1955 0:00,4/4/2023 5:01,New York,Northeast,511
+518,1434,2100,Jared Isaacman,40.0,United States,Easton,Payment processing,Technology,United States,True,U,M,2/11/1983 0:00,4/4/2023 5:01,Pennsylvania,Northeast,511
+519,1434,2100,Marc Lasry,62.0,United States,New York,Hedge funds,Finance & Investments,United States,True,U,M,9/23/1960 0:00,4/4/2023 5:01,New York,Northeast,511
+520,1434,2100,Theodore Leonsis,67.0,United States,Bethesda,Sports teams,Sports,United States,True,U,M,1/8/1956 0:00,4/4/2023 5:01,Maryland,South,511
+521,1434,2100,Daniel Lubetzky,54.0,United States,New York,Snack bars,Food & Beverage,United States,True,D,M,9/28/1968 0:00,4/4/2023 5:01,New York,Northeast,511
+522,1434,2100,Leonid Radvinsky,40.0,United States,Unknown,E-commerce,Technology,United States,True,U,M,5/30/1982 0:00,4/4/2023 5:01,Florida,South,511
+523,1434,2100,Richard Saghian,41.0,United States,Los Angeles,Fast fashion,Fashion & Retail,United States,True,U,M,8/6/1981 0:00,4/4/2023 5:01,California,West,511
+524,1434,2100,Timothy Springer,75.0,United States,Chestnut Hill,Biotech,Healthcare,United States,True,E,M,2/23/1948 0:00,4/4/2023 5:01,Massachusetts,Northeast,511
+525,1434,2100,Edward Stack,68.0,United States,Sewickley,Dick's Sporting Goods,Fashion & Retail,United States,True,U,M,12/27/1954 0:00,4/4/2023 5:01,Pennsylvania,Northeast,511
+526,1434,2100,Barbara Tyson,74.0,United States,Fayetteville,Food processing,Food & Beverage,United States,False,N,F,3/6/1949 0:00,4/4/2023 5:01,Arkansas,South,511
+527,1434,2100,Hamdi Ulukaya,50.0,United States,Norwich,Greek yogurt,Food & Beverage,Turkey,True,D,M,10/26/1972 0:00,4/4/2023 5:01,New York,Northeast,511
+528,1434,2100,Elaine Wynn,80.0,United States,Las Vegas,"Casinos, hotels",Gambling & Casinos,United States,True,U,F,4/28/1942 0:00,4/4/2023 5:01,Nevada,West,511
+529,1516,2000,William Franke,85.0,United States,Houston,Low-cost airlines,Diversified,United States,True,D,M,4/15/1937 0:00,4/4/2023 5:01,Texas,South,529
+530,1516,2000,Amy Goldman Fowler,68.0,United States,Rhinebeck,Real estate,Real Estate,United States,False,D,F,4/19/1954 0:00,4/4/2023 5:01,New York,Northeast,529
+531,1516,2000,Rajiv Jain,55.0,United States,Fort Lauderdale,Finance,Finance & Investments,United States,True,N,M,1/27/1968 0:00,4/4/2023 5:01,Florida,South,529
+532,1516,2000,Michael Jordan,60.0,United States,Jupiter,"Charlotte Hornets, endorsements",Sports,United States,True,U,M,2/17/1963 0:00,4/4/2023 5:01,Florida,South,529
+533,1516,2000,Diane Kemper,77.0,United States,New York,Real estate,Real Estate,United States,False,D,F,7/21/1945 0:00,4/4/2023 5:01,New York,Northeast,529
+534,1516,2000,Craig McCaw,73.0,United States,Hunts Point,Telecom,Telecom,United States,False,D,M,8/11/1949 0:00,4/4/2023 5:01,Washington,West,529
+535,1516,2000,Matthew Prince,48.0,United States,Park City,Cybersecurity,Technology,United States,True,D,M,1/1/1975 0:00,4/4/2023 5:01,Utah,West,529
+536,1516,2000,Linda Pritzker,69.0,United States,Missoula,"Hotels, investments",Service,United States,False,E,F,9/14/1953 0:00,4/4/2023 5:01,Montana,West,529
+537,1516,2000,T. Denny Sanford,87.0,United States,Sioux Falls,"Banking, credit cards",Finance & Investments,United States,True,D,M,12/23/1935 0:00,4/4/2023 5:01,South Dakota,Midwest,529
+538,1516,2000,Hope Welker,37.0,United States,New York,Mining,Metals & Mining,Australia,False,D,F,8/13/1985 0:00,4/4/2023 5:01,New York,Northeast,529
+539,1516,2000,William Young,82.0,United States,Ypsilanti,Plastics,Manufacturing,United States,True,D,M,1/1/1941 0:00,4/4/2023 5:01,Michigan,Midwest,529
+540,1575,1900,David Blitzer,53.0,United States,New York,Sports,Sports,United States,True,N,M,9/7/1969 0:00,4/4/2023 5:01,New York,Northeast,540
+541,1575,1900,"Howard Butt, III. & family",71.0,United States,San Antonio,Supermarkets,Fashion & Retail,United States,False,N,M,4/4/1952 0:00,4/4/2023 5:01,Texas,South,540
+542,1575,1900,Stephen Butt & family,67.0,United States,Unknown,Supermarkets,Fashion & Retail,United States,False,N,M,5/24/1955 0:00,4/4/2023 5:01,Unknown,Unknown,540
+543,1575,1900,Alexandra Daitch,60.0,United States,Old Lyme,Cargill,Food & Beverage,United States,False,D,F,1/1/1963 0:00,4/4/2023 5:01,Connecticut,Northeast,540
+544,1575,1900,Mark Davis,67.0,United States,Henderson,Las Vegas Raiders,Sports,United States,False,N,M,5/18/1955 0:00,4/4/2023 5:01,Nevada,West,540
+545,1575,1900,James Dinan,63.0,United States,North Salem,Hedge funds,Finance & Investments,United States,True,E,M,5/22/1959 0:00,4/4/2023 5:01,New York,Northeast,540
+546,1575,1900,Reid Hoffman,55.0,United States,Palo Alto,LinkedIn,Technology,United States,True,D,M,8/5/1967 0:00,4/4/2023 5:01,California,West,540
+547,1575,1900,"B. Wayne Hughes, Jr.",63.0,United States,Jackson,Storage facilities,Real Estate,United States,False,D,M,5/27/1959 0:00,4/4/2023 5:01,Wyoming,South,540
+548,1575,1900,Scott Kapnick,64.0,United States,Naples,Private equity,Finance & Investments,United States,True,U,M,2/9/1959 0:00,4/4/2023 5:01,Florida,South,540
+549,1575,1900,Richard Kayne,77.0,United States,Santa Monica,Investments,Finance & Investments,United States,True,U,M,1/1/1946 0:00,4/4/2023 5:01,California,West,540
+550,1575,1900,Edward Lampert,60.0,United States,Miami Beach,Sears,Finance & Investments,United States,True,U,M,7/19/1962 0:00,4/4/2023 5:01,Florida,South,540
+551,1575,1900,James Leprino,85.0,United States,Indian Hills,Cheese,Food & Beverage,United States,False,D,M,11/22/1937 0:00,4/4/2023 5:01,Colorado,West,540
+552,1575,1900,David Lichtenstein,61.0,United States,Monsey,Real estate,Real Estate,United States,True,E,M,11/21/1961 0:00,4/4/2023 5:01,New York,Northeast,540
+553,1575,1900,Sarah MacMillan,69.0,United States,Los Angeles,Cargill,Food & Beverage,United States,False,D,F,1/1/1954 0:00,4/4/2023 5:01,California,West,540
+554,1575,1900,Jennifer Pritzker,72.0,United States,Chicago,"Hotels, investments",Finance & Investments,United States,False,D,F,8/13/1950 0:00,4/4/2023 5:01,Illinois,Midwest,540
+555,1575,1900,Larry Robbins,53.0,United States,Alpine,Hedge funds,Finance & Investments,United States,True,E,M,10/21/1969 0:00,4/4/2023 5:01,New Jersey,Northeast,540
+556,1575,1900,Dwight Schar,81.0,United States,Palm Beach,"Homebuilding, NFL team",Construction & Engineering,United States,True,E,M,2/8/1942 0:00,4/4/2023 5:01,Florida,South,540
+557,1575,1900,Hua Shen,60.0,China,Jiaxing,Semiconductors,Technology,United States,True,D,M,1/1/1963 0:00,4/4/2023 5:01,N/A,N/A,540
+558,1575,1900,Lucy Stitzer,63.0,United States,Greenwich,Cargill,Food & Beverage,United States,False,D,F,1/1/1960 0:00,4/4/2023 5:01,Connecticut,Northeast,540
+559,1575,1900,Charlotte Colket Weber,80.0,United States,Hobe Sound,Campbell Soup,Food & Beverage,United States,False,U,F,11/19/1942 0:00,4/4/2023 5:01,Florida,South,540
+560,1575,1900,Anita Zucker,71.0,United States,Charleston,Chemicals,Manufacturing,United States,False,U,F,1/19/1952 0:00,4/4/2023 5:01,South Carolina,South,540
+561,1647,1800,Leslie Alexander,79.0,United States,Houston,Sports team,Sports,United States,True,E,M,6/30/1943 0:00,4/4/2023 5:01,Texas,South,561
+562,1647,1800,O. Francis Biondi,58.0,United States,New York,Hedge funds,Finance & Investments,United States,True,E,M,7/4/1964 0:00,4/4/2023 5:01,New York,Northeast,561
+563,1647,1800,Parker Conrad,42.0,United States,San Francisco,Software,Technology,United States,True,N,M,4/13/1980 0:00,4/4/2023 5:01,California,West,561
+564,1647,1800,Tim Cook,62.0,United States,Cupertino,Apple,Technology,United States,True,D,M,11/1/1960 0:00,4/4/2023 5:01,California,West,561
+565,1647,1800,Robert Duggan,78.0,United States,Clearwater,Pharmaceuticals,Healthcare,United States,True,D,M,4/28/1944 0:00,4/4/2023 5:01,Florida,South,561
+566,1647,1800,James France,78.0,United States,Daytona Beach,"Nascar, racing",Sports,United States,False,E,M,10/24/1944 0:00,4/4/2023 5:01,Florida,South,561
+567,1647,1800,Phillip Frost,86.0,United States,Miami Beach,Pharmaceuticals,Healthcare,United States,True,D,M,11/11/1936 0:00,4/4/2023 5:01,Florida,South,561
+568,1647,1800,Christopher Goldsbury,80.0,United States,San Antonio,Salsa,Food & Beverage,United States,False,E,M,1/1/1943 0:00,4/4/2023 5:01,Texas,South,561
+569,1647,1800,Brian Higgins,58.0,United States,New York,Hedge funds,Finance & Investments,United States,True,E,M,2/8/1965 0:00,4/4/2023 5:01,New York,Northeast,561
+570,1647,1800,George Kurtz,52.0,United States,Paradise Valley,Security software,Technology,United States,True,D,M,10/1/1970 0:00,4/4/2023 5:01,Arizona,West,561
+571,1647,1800,Joe Lacob,67.0,United States,Atherton,Golden State Warriors,Sports,United States,True,U,M,1/10/1956 0:00,4/4/2023 5:01,California,West,561
+572,1647,1800,Joe Lau,33.0,United States,Stanford,"Blockchain, technology",Technology,United States,True,D,M,7/1/1989 0:00,4/4/2023 5:01,California,West,561
+573,1647,1800,Gary Michelson,74.0,United States,Los Angeles,Medical patents,Healthcare,United States,True,E,M,1/14/1949 0:00,4/4/2023 5:01,California,West,561
+574,1647,1800,Ronald Perelman,80.0,United States,New York,Leveraged buyouts,Finance & Investments,United States,True,D,M,1/1/1943 0:00,4/4/2023 5:01,New York,Northeast,561
+575,1647,1800,Olivier Pomel,46.0,United States,New York,Cloud computing,Technology,France,True,D,M,3/26/1977 0:00,4/4/2023 5:01,New York,Northeast,561
+576,1647,1800,Jim Thompson,83.0,Hong Kong,Hong Kong,Logistics,Logistics,United States,True,U,M,1/14/1940 0:00,4/4/2023 5:01,N/A,N/A,561
+577,1647,1800,Alan Trefler,67.0,United States,Brookline,Software,Technology,United States,True,D,M,3/10/1956 0:00,4/4/2023 5:01,Massachusetts,Northeast,561
+578,1647,1800,Riaz Valani,46.0,United States,Malibu,E-cigarettes,Finance & Investments,United States,True,D,M,9/1/1976 0:00,4/4/2023 5:01,California,West,561
+579,1647,1800,Nikil Viswanathan,35.0,United States,San Francisco,Blockchain technology,Technology,United States,True,D,M,10/16/1987 0:00,4/4/2023 5:01,California,West,561
+580,1647,1800,Todd Wagner,62.0,United States,Dallas,Online media,Media & Entertainment,United States,True,D,M,8/2/1960 0:00,4/4/2023 5:01,Texas,South,561
+581,1647,1800,Evan Williams,51.0,United States,San Francisco,Twitter,Technology,United States,True,D,M,3/31/1972 0:00,4/4/2023 5:01,California,West,561
+582,1647,1800,Amy Wyss,52.0,United States,Wilson,Medical equipment,Healthcare,United States,False,D,F,1/1/1971 0:00,4/4/2023 5:01,Wyoming,South,561
+583,1647,1800,Alan Zekelman,60.0,United States,Bloomfield Hills,Steel,Manufacturing,Canada,False,U,M,10/1/1962 0:00,4/4/2023 5:01,Michigan,Midwest,561
+584,1725,1700,Amy Adams Strunk,67.0,United States,Nashville,Tennessee Titans,Sports,United States,False,N,F,9/29/1955 0:00,4/4/2023 5:01,Tennessee,South,584
+585,1725,1700,Marc Andreessen,51.0,United States,Atherton,Venture capital investing,Finance & Investments,United States,True,E,M,7/9/1971 0:00,4/4/2023 5:01,California,West,584
+586,1725,1700,David Booth,77.0,United States,Austin,Mutual funds,Finance & Investments,United States,True,E,M,1/1/1946 0:00,4/4/2023 5:01,Texas,South,584
+587,1725,1700,Jim Breyer,61.0,United States,Austin,Venture capital,Technology,United States,True,D,M,7/26/1961 0:00,4/4/2023 5:01,Texas,South,584
+588,1725,1700,Carl DeSantis,83.0,United States,Delray Beach,Energy drink,Food & Beverage,United States,True,U,M,7/19/1939 0:00,4/4/2023 5:01,Florida,Unknown,584
+589,1725,1700,Keith Dunleavy & family,53.0,United States,Annapolis,Health IT,Healthcare,United States,True,E,M,6/25/1969 0:00,4/4/2023 5:01,Maryland,South,584
+590,1725,1700,Mario Gabelli,81.0,United States,Greenwich,Money management,Finance & Investments,United States,True,D,M,3/31/1942 0:00,4/4/2023 5:01,Connecticut,Northeast,584
+591,1725,1700,John Goff,67.0,United States,Fort Worth,Real estate,Real Estate,United States,True,U,M,8/26/1955 0:00,4/4/2023 5:01,Texas,South,584
+592,1725,1700,Osman Kibar,52.0,United States,La Jolla,Biotech,Healthcare,United States,True,D,M,4/1/1971 0:00,4/4/2023 5:01,California,West,584
+593,1725,1700,Alexis Lê-Quôc,48.0,United States,New York,Cloud computing,Technology,United States,True,D,M,11/14/1974 0:00,4/4/2023 5:01,New York,Northeast,584
+594,1725,1700,James Leininger,78.0,United States,San Antonio,Medical products,Healthcare,United States,True,E,M,3/30/1945 0:00,4/4/2023 5:01,Texas,South,584
+595,1725,1700,Jimmy John Liautaud,59.0,United States,Key Largo,Sandwich chain,Food & Beverage,United States,True,E,M,1/12/1964 0:00,4/4/2023 5:01,Florida,South,584
+596,1725,1700,Palmer Luckey,30.0,United States,Newport Beach,Virtual reality,Technology,United States,True,N,M,9/19/1992 0:00,4/4/2023 5:01,California,West,584
+597,1725,1700,Duncan MacMillan,85.0,United States,Princeton,Bloomberg LP,Finance & Investments,United States,True,U,M,12/17/1937 0:00,4/4/2023 5:01,New Jersey,Northeast,584
+598,1725,1700,Jorge Perez,73.0,United States,Miami,Real estate,Real Estate,United States,True,E,M,10/17/1949 0:00,4/4/2023 5:01,Florida,South,584
+599,1725,1700,Brian Roberts,63.0,United States,Philadelphia,Comcast,Media & Entertainment,United States,False,U,M,6/28/1959 0:00,4/4/2023 5:01,Pennsylvania,Northeast,584
+600,1725,1700,"Joe Rogers, Jr.",76.0,United States,Atlanta,Waffle House,Food & Beverage,United States,False,D,M,12/2/1946 0:00,4/4/2023 5:01,Georgia,South,584
+601,1725,1700,Paul Saville,67.0,United States,Palm Beach,Homebuilder,Real Estate,United States,True,U,M,12/14/1955 0:00,4/4/2023 5:01,Florida,South,584
+602,1725,1700,Jonathan Tisch,69.0,United States,New York,"Insurance, NFL team",Diversified,United States,False,U,M,12/7/1953 0:00,4/4/2023 5:01,New York,Northeast,584
+603,1725,1700,Kenneth Tuchman,63.0,United States,Denver,Call centers,Service,United States,True,D,M,10/23/1959 0:00,4/4/2023 5:01,Colorado,West,584
+604,1725,1700,Tom Werner,72.0,United States,Los Angeles,Sports teams,Sports,United States,True,U,M,4/12/1950 0:00,4/4/2023 5:01,California,West,584
+605,1725,1700,Stephen Winn,76.0,United States,Dallas,Real estate services,Real Estate,United States,True,E,M,9/12/1946 0:00,4/4/2023 5:01,Texas,South,584
+606,1725,1700,David Zalik,49.0,United States,Atlanta,Financial technology,Technology,United States,True,D,M,2/2/1974 0:00,4/4/2023 5:01,Georgia,South,584
+607,1804,1600,Noubar Afeyan,60.0,United States,Lexington,Biotech,Healthcare,United States,True,D,M,7/25/1962 0:00,4/4/2023 5:01,Massachusetts,Northeast,607
+608,1804,1600,"Herbert Allen, Jr. & family",83.0,United States,New York,Investment banking,Finance & Investments,United States,False,E,M,3/5/1940 0:00,4/4/2023 5:01,New York,Northeast,607
+609,1804,1600,Clifford Asness,56.0,United States,Greenwich,Money management,Finance & Investments,United States,True,E,M,10/17/1966 0:00,4/4/2023 5:01,Connecticut,Northeast,607
+610,1804,1600,Louis Bacon,66.0,United States,Oyster Bay,Hedge funds,Finance & Investments,United States,True,E,M,7/25/1956 0:00,4/4/2023 5:01,New York,Northeast,607
+611,1804,1600,Robert Clark,64.0,United States,St. Louis,Construction,Construction & Engineering,United States,True,E,M,1/30/1959 0:00,4/4/2023 5:01,Missouri,Midwest,607
+612,1804,1600,Tench Coxe,65.0,United States,Palo Alto,Venture capital,Finance & Investments,United States,True,D,M,1/14/1958 0:00,4/4/2023 5:01,California,West,607
+613,1804,1600,Jim Crane,69.0,United States,Houston,"Logistics, baseball",Sports,United States,True,U,M,1/17/1954 0:00,4/4/2023 5:01,Texas,South,607
+614,1804,1600,Jamie Dimon,67.0,United States,New York,Banking,Finance & Investments,United States,True,E,M,3/13/1956 0:00,4/4/2023 5:01,New York,Northeast,607
+615,1804,1600,Daniel Dines,51.0,United States,New York,Software,Technology,Romania,True,D,M,1/1/1972 0:00,4/4/2023 5:01,New York,Northeast,607
+616,1804,1600,"William Foley, II.",78.0,United States,Las Vegas,Financial services,Finance & Investments,United States,True,U,M,12/29/1944 0:00,4/4/2023 5:01,Nevada,West,607
+617,1804,1600,Bill Gross,78.0,United States,Laguna Beach,Investments,Finance & Investments,United States,True,E,M,4/13/1944 0:00,4/4/2023 5:01,California,West,607
+618,1804,1600,Sue Gross,73.0,United States,Laguna Beach,Investments,Finance & Investments,United States,False,E,F,2/17/1950 0:00,4/4/2023 5:01,California,West,607
+619,1804,1600,Irving Grousbeck & family,88.0,United States,Portola Valley,"Telecommunication, sports",Sports,United States,True,N,M,7/20/1934 0:00,4/4/2023 5:01,California,West,607
+620,1804,1600,Timothy Headington,72.0,United States,Dallas,"Oil & gas, investments",Energy,United States,False,U,M,4/24/1950 0:00,4/4/2023 5:01,Texas,South,607
+621,1804,1600,David Hoffmann,70.0,United States,Naples,"Executive search, investments",Diversified,United States,True,U,M,8/7/1952 0:00,4/4/2023 5:01,Florida,South,607
+622,1804,1600,Stanley Hubbard,89.0,United States,St. Paul,DirecTV,Media & Entertainment,United States,False,D,M,5/28/1933 0:00,4/4/2023 5:01,Minnesota,Midwest,607
+623,1804,1600,Randal J. Kirk,69.0,United States,Manalapan,Pharmaceuticals,Healthcare,United States,True,E,M,3/1/1954 0:00,4/4/2023 5:01,Florida,South,607
+624,1804,1600,William Koch,82.0,United States,Palm Beach,"Oil, investments",Energy,United States,False,E,M,5/3/1940 0:00,4/4/2023 5:01,Florida,South,607
+625,1804,1600,Robert Langer,74.0,United States,Boston,Biotech,Healthcare,United States,True,E,M,8/29/1948 0:00,4/4/2023 5:01,Massachusetts,Northeast,607
+626,1804,1600,Jim McKelvey,57.0,United States,St. Louis,Mobile payments,Technology,United States,True,D,M,10/19/1965 0:00,4/4/2023 5:01,Missouri,Midwest,607
+627,1804,1600,Michael Polsky,74.0,United States,Chicago,Electric power,Energy,United States,True,U,M,1/1/1949 0:00,4/4/2023 5:01,Illinois,Midwest,607
+628,1804,1600,Andres Santo Domingo,44.0,United States,New York,Beer,Food & Beverage,United States,False,E,M,6/1/1978 0:00,4/4/2023 5:01,New York,Northeast,607
+629,1804,1600,Evgeny (Eugene) Shvidler,59.0,United Kingdom,London,"Metals, investments",Metals & Mining,United States,True,E,M,3/23/1964 0:00,4/4/2023 5:01,N/A,N/A,607
+630,1804,1600,Ryan Smith,44.0,United States,Provo,Cloud computing,Technology,United States,True,E,M,6/28/1978 0:00,4/4/2023 5:01,Utah,West,607
+631,1804,1600,Peter Sperling,63.0,United States,Phoenix,Education,Service,United States,False,E,M,11/22/1959 0:00,4/4/2023 5:01,Arizona,West,607
+632,1804,1600,Laurie Tisch,72.0,United States,New York,"Insurance, NFL team",Diversified,United States,False,U,F,2/19/1951 0:00,4/4/2023 5:01,New York,Northeast,607
+633,1804,1600,Steven Tisch,74.0,United States,Beverly Hills,Insurance,Diversified,United States,False,U,M,2/14/1949 0:00,4/4/2023 5:01,California,West,607
+634,1804,1600,August Troendle,67.0,United States,Cincinnati,Pharmaceutical services,Healthcare,United States,True,U,M,1/1/1956 0:00,4/4/2023 5:01,Ohio,Midwest,607
+635,1804,1600,Scott Watterson,67.0,United States,Logan,Fitness equipment,Technology,United States,True,E,M,5/18/1955 0:00,4/4/2023 5:01,Utah,West,607
+636,1804,1600,Dan Wilks,66.0,United States,Cisco,Natural gas,Energy,United States,True,U,M,5/30/1956 0:00,4/4/2023 5:01,Texas,South,607
+637,1804,1600,Anthony Wood,57.0,United States,Palo Alto,Roku,Technology,United States,True,D,M,12/4/1965 0:00,4/4/2023 5:01,California,West,607
+638,1804,1600,George Yancopoulos,63.0,United States,Yorktown Heights,Pharmaceuticals,Healthcare,United States,True,U,M,9/10/1959 0:00,4/4/2023 5:01,New York,Northeast,607
+639,1905,1500,Safra Catz,61.0,United States,Redwood City,Software,Technology,United States,True,E,F,12/13/1961 0:00,4/4/2023 5:01,California,South,639
+640,1905,1500,Bharat Desai,70.0,United States,Fisher Island,IT consulting,Technology,United States,True,E,M,11/20/1952 0:00,4/4/2023 5:01,Florida,South,639
+641,1905,1500,Egon Durban,49.0,United States,Atherton,Private equity,Finance & Investments,United States,True,E,M,8/23/1973 0:00,4/4/2023 5:01,California,West,639
+642,1905,1500,Alan Gerry,94.0,United States,Liberty,Cable television,Media & Entertainment,United States,True,E,M,12/25/1928 0:00,4/4/2023 5:01,New York,Northeast,639
+643,1905,1500,Patrick Hanrahan,67.0,United States,Portola Valley,Software,Technology,United States,True,D,M,5/8/1955 0:00,4/4/2023 5:01,California,West,639
+644,1905,1500,Kenneth Hao,54.0,United States,Hillsborough,Private equity,Finance & Investments,United States,True,E,M,9/11/1968 0:00,4/4/2023 5:01,California,West,639
+645,1905,1500,Sidney Kimmel,95.0,United States,New York,Retail,Fashion & Retail,United States,True,E,M,1/16/1928 0:00,4/4/2023 5:01,New York,Northeast,639
+646,1905,1500,Jim Koch,73.0,United States,Newton,Beer,Food & Beverage,United States,True,D,M,5/27/1949 0:00,4/4/2023 5:01,Massachusetts,Northeast,639
+647,1905,1500,Liu Xiucai & family,66.0,China,Shanghai,Chemicals,Manufacturing,United States,True,D,M,3/1/1957 0:00,4/4/2023 5:01,N/A,N/A,639
+648,1905,1500,Greg Mondre,48.0,United States,New York,Private equity,Finance & Investments,United States,True,E,M,5/20/1974 0:00,4/4/2023 5:01,New York,Northeast,639
+649,1905,1500,Jerry Moyes & family,79.0,United States,Tolleson,Transportation,Logistics,United States,True,U,M,1/15/1944 0:00,4/4/2023 5:01,Arizona,West,639
+650,1905,1500,John Ocampo,63.0,United States,Los Altos,Semiconductors,Technology,United States,True,U,M,4/5/1959 0:00,4/4/2023 5:01,California,West,639
+651,1905,1500,Nelson Peltz,80.0,United States,Bedford,Investments,Finance & Investments,United States,True,D,M,6/1/1942 0:00,4/4/2023 5:01,New York,Northeast,639
+652,1905,1500,Mike Repole,55.0,United States,Windermere,Sports drink,Food & Beverage,United States,True,E,M,1/21/1968 0:00,4/4/2023 5:01,Florida,South,639
+653,1905,1500,Duke Reyes,66.0,United States,Palm Beach,Beer distribution,Food & Beverage,United States,False,U,M,3/23/1957 0:00,4/4/2023 5:01,Florida,South,639
+654,1905,1500,John Ruiz,56.0,United States,Coral Gables,Healthcare services,Service,United States,True,N,M,1/7/1967 0:00,4/4/2023 5:01,Florida,South,639
+655,1905,1500,Sheryl Sandberg,53.0,United States,Menlo Park,Facebook,Technology,United States,True,D,F,8/28/1969 0:00,4/4/2023 5:01,California,West,639
+656,1905,1500,Ben Silbermann,40.0,United States,San Francisco,Social media,Media & Entertainment,United States,True,U,M,7/14/1982 0:00,4/4/2023 5:01,California,West,639
+657,1905,1500,Frank Slootman,64.0,United States,Pleasanton,Software,Technology,United States,True,D,M,10/3/1958 0:00,4/4/2023 5:01,California,West,639
+658,1905,1500,Axel Stawski,72.0,United States,Sagaponack,Real estate,Real Estate,United States,True,U,M,11/14/1950 0:00,4/4/2023 5:01,New York,Northeast,639
+659,1905,1500,Thomas Steyer,65.0,United States,San Francisco,Hedge funds,Finance & Investments,United States,True,E,M,6/27/1957 0:00,4/4/2023 5:01,California,West,639
+660,1905,1500,Kevin Systrom,39.0,United States,San Francisco,Instagram,Technology,United States,True,E,M,12/30/1983 0:00,4/4/2023 5:01,California,West,639
+661,1905,1500,Jeff Tangney,50.0,United States,Palo Alto,Healthcare IT,Healthcare,United States,True,D,M,8/9/1972 0:00,4/4/2023 5:01,California,West,639
+662,1905,1500,Kenny Troutt,75.0,United States,Dallas,Telecom,Telecom,United States,True,E,M,1/8/1948 0:00,4/4/2023 5:01,Texas,South,639
+663,1905,1500,Farris Wilks,71.0,United States,Cisco,Natural gas,Energy,United States,True,U,M,2/9/1952 0:00,4/4/2023 5:01,Texas,South,639
+664,2020,1400,Steve Case,64.0,United States,McLean,AOL,Technology,United States,True,D,M,8/21/1958 0:00,4/4/2023 5:01,Virginia,South,664
+665,2020,1400,John Farber,97.0,United States,New York,Chemicals,Manufacturing,United States,True,D,M,8/23/1925 0:00,4/4/2023 5:01,New York,Northeast,664
+666,2020,1400,J. Christopher Flowers,65.0,United States,Palm Beach,Investments,Finance & Investments,United States,True,U,M,10/27/1957 0:00,4/4/2023 5:01,Florida,South,664
+667,2020,1400,Ali Ghodsi,44.0,United States,San Francisco,Data analytics,Technology,Sweden,True,D,M,12/8/1978 0:00,4/4/2023 5:01,California,West,664
+668,2020,1400,Daniel Hirschfeld,81.0,United States,Kearney,Fashion retail,Fashion & Retail,United States,False,E,M,5/31/1941 0:00,4/4/2023 5:01,Nebraska,Midwest,664
+669,2020,1400,Drew Houston,40.0,United States,Austin,Cloud storage service,Technology,United States,True,D,M,3/4/1983 0:00,4/4/2023 5:01,Texas,South,664
+670,2020,1400,Gary Magness,69.0,United States,Denver,"Cable TV, investments",Media & Entertainment,United States,False,E,M,2/26/1954 0:00,4/4/2023 5:01,Colorado,West,664
+671,2020,1400,David Paul,56.0,United States,Audubon,Medical devices,Healthcare,United States,True,D,M,12/25/1966 0:00,4/4/2023 5:01,Pennsylvania,Northeast,664
+672,2020,1400,Rihanna,35.0,United States,Los Angeles,"Music, cosmetics",Fashion & Retail,Barbados,True,D,F,2/20/1988 0:00,4/4/2023 5:01,California,West,664
+673,2020,1400,Martin Selig,85.0,United States,Seattle,Real estate,Real Estate,United States,True,E,M,12/31/1937 0:00,4/4/2023 5:01,Washington,West,664
+674,2020,1400,Jared Smith,48.0,United States,Provo,Cloud computing,Technology,United States,True,E,M,10/2/1974 0:00,4/4/2023 5:01,Utah,West,664
+675,2020,1400,Wilma Tisch,95.0,United States,New York,Diversified,Finance & Investments,United States,False,D,F,6/25/1927 0:00,4/4/2023 5:01,New York,Northeast,664
+676,2020,1400,"Alfred West, Jr.",80.0,United States,Paoli,Money management,Finance & Investments,United States,True,U,M,12/7/1942 0:00,4/4/2023 5:01,Pennsylvania,Northeast,664
+677,2133,1300,A. Jayson Adair,53.0,United States,Dallas,Damaged cars,Automotive,United States,True,U,M,10/16/1969 0:00,4/4/2023 5:01,Texas,South,677
+678,2133,1300,Stewart Butterfield,50.0,United States,Aspen,Messaging software,Technology,Canada,True,D,M,3/21/1973 0:00,4/4/2023 5:01,Colorado,West,677
+679,2133,1300,Anthony Casalena,40.0,United States,Monkton,Software,Technology,United States,True,E,M,4/24/1982 0:00,4/4/2023 5:01,Maryland,South,677
+680,2133,1300,R. Marcelo Claure,52.0,United States,Miami Beach,Cell phone distribution,Telecom,United States,True,N,M,12/9/1970 0:00,4/4/2023 5:01,Florida,South,677
+681,2133,1300,Timothy Dunn & family,67.0,United States,Midland,Energy,Energy,United States,True,N,M,12/18/1955 0:00,4/4/2023 5:01,Texas,South,677
+682,2133,1300,Marvy Finger,87.0,United States,Houston,Real estate,Real Estate,United States,True,E,M,12/8/1935 0:00,4/4/2023 5:01,Texas,Unknown,677
+683,2133,1300,Joel Greenberg,65.0,United States,Gladwyne,"Trading, investments",Finance & Investments,United States,True,N,M,8/19/1957 0:00,4/4/2023 5:01,Pennsylvania,Northeast,677
+684,2133,1300,Gregg Hymowitz,57.0,United States,New York,Asset management,Finance & Investments,United States,True,N,M,11/16/1965 0:00,4/4/2023 5:01,New York,Northeast,677
+685,2133,1300,Mitchell Jacobson,72.0,United States,Locust Valley,Industrial equipment,Service,United States,False,E,M,3/6/1951 0:00,4/4/2023 5:01,New York,Northeast,677
+686,2133,1300,George Joseph,101.0,United States,Los Angeles,Insurance,Finance & Investments,United States,True,D,M,9/11/1921 0:00,4/4/2023 5:01,California,West,677
+687,2133,1300,Alexander Karp,55.0,United States,Palo Alto,Software firm,Technology,United States,True,U,M,10/1/1967 0:00,4/4/2023 5:01,California,West,677
+688,2133,1300,Joe Kiani,58.0,United States,Irvine,Medical devices,Healthcare,United States,True,N,M,9/16/1964 0:00,4/4/2023 5:01,California,West,677
+689,2133,1300,Seth Klarman,65.0,United States,Chestnut Hill,Investments,Finance & Investments,United States,True,D,M,5/1/1957 0:00,4/4/2023 5:01,Massachusetts,Northeast,677
+690,2133,1300,Michael Krasny,69.0,United States,Highland Park,Retail,Technology,United States,True,E,M,8/8/1953 0:00,4/4/2023 5:01,Illinois,Midwest,677
+691,2133,1300,Gary Lauder,60.0,United States,Atherton,Estée Lauder,Fashion & Retail,United States,False,D,M,5/5/1962 0:00,4/4/2023 5:01,California,West,677
+692,2133,1300,Art Levinson,73.0,United States,Hillsborough,"Genentech, Apple",Diversified,United States,True,D,M,3/31/1950 0:00,4/4/2023 5:01,California,West,677
+693,2133,1300,George Marcus,81.0,United States,Los Altos Hills,Real estate,Real Estate,United States,True,D,M,8/15/1941 0:00,4/4/2023 5:01,California,West,677
+694,2133,1300,Jahm Najafi,60.0,United States,Paradise Valley,Investments,Finance & Investments,United States,True,N,M,3/19/1963 0:00,4/4/2023 5:01,Arizona,West,677
+695,2133,1300,Randal Nardone,67.0,United States,New York,"Investments, energy",Finance & Investments,United States,True,E,M,6/22/1955 0:00,4/4/2023 5:01,New York,Northeast,677
+696,2133,1300,John Oyler,55.0,United States,Unknown,Biotech,Healthcare,United States,True,U,M,4/3/1968 0:00,4/4/2023 5:01,Nevada,West,677
+697,2133,1300,George Pedersen & family,87.0,United States,McLean,Defense contractor,Manufacturing,United States,True,U,M,8/18/1935 0:00,4/4/2023 5:01,Virginia,South,677
+698,2133,1300,Seifeddin Rustamov,60.0,United States,Unknown,Chemicals,Manufacturing,Russia,True,N,M,6/17/1962 0:00,4/4/2023 5:01,Virginia,South,677
+699,2133,1300,James Scapa,66.0,United States,Atherton,Software,Technology,United States,True,E,M,1/23/1957 0:00,4/4/2023 5:01,California,West,677
+700,2133,1300,Hal Steinbrenner,54.0,United States,Tampa,Sports,Sports,United States,False,N,M,12/3/1968 0:00,4/4/2023 5:01,Florida,South,677
+701,2133,1300,Jessica Steinbrenner,59.0,United States,Tampa,Sports,Sports,United States,False,N,F,3/26/1964 0:00,4/4/2023 5:01,Florida,South,677
+702,2133,1300,Jennifer Steinbrenner Swindal,63.0,United States,Tampa,Sports,Sports,United States,False,N,F,7/28/1959 0:00,4/4/2023 5:01,Florida,South,677
+703,2259,1200,Michael Arougheti,50.0,United States,Nyack,Finance,Finance & Investments,United States,True,N,M,10/10/1972 0:00,4/4/2023 5:01,New York,Northeast,703
+704,2259,1200,Tope Awotona,41.0,United States,Atlanta,Software,Technology,United States,True,D,M,4/22/1981 0:00,4/4/2023 5:01,Georgia,South,703
+705,2259,1200,Thomas Bailey,86.0,United States,Aspen,Money management,Finance & Investments,United States,True,E,M,1/1/1937 0:00,4/4/2023 5:01,Colorado,West,703
+706,2259,1200,Darwin Deason,82.0,United States,Dallas,Software,Service,United States,True,D,M,5/14/1940 0:00,4/4/2023 5:01,Texas,South,703
+707,2259,1200,Farhad Ebrahimi,84.0,United States,Denver,Solar panels,Manufacturing,United States,True,N,M,1/1/1939 0:00,4/4/2023 5:01,Colorado,West,703
+708,2259,1200,Gary Friedman,65.0,United States,Belvedere,Furniture retail,Fashion & Retail,United States,True,D,M,8/6/1957 0:00,4/4/2023 5:01,California,West,703
+709,2259,1200,Lawrence Golub,63.0,United States,New York,Private equity,Finance & Investments,United States,True,E,M,10/3/1959 0:00,4/4/2023 5:01,New York,Northeast,703
+710,2259,1200,Richard Hayne,75.0,United States,Philadelphia,Urban Outfitters,Fashion & Retail,United States,True,E,M,9/1/1947 0:00,4/4/2023 5:01,Pennsylvania,Northeast,703
+711,2259,1200,Orion Hindawi,43.0,United States,Seattle,Software,Technology,United States,True,D,M,1/10/1980 0:00,4/4/2023 5:01,Washington,West,703
+712,2259,1200,David Kaplan,55.0,United States,Los Angeles,Finance,Finance & Investments,United States,True,N,M,8/29/1967 0:00,4/4/2023 5:01,California,West,703
+713,2259,1200,Kim Kardashian,42.0,United States,Hidden Hills,"Shapewear, cosmetics, reality TV",Fashion & Retail,United States,True,D,F,10/21/1980 0:00,4/4/2023 5:01,California,West,703
+714,2259,1200,Frederic Luddy,68.0,United States,San Diego,Software,Technology,United States,True,D,M,11/24/1954 0:00,4/4/2023 5:01,California,West,703
+715,2259,1200,"Cargill MacMillan, III.",63.0,United States,Boulder,Cargill,Food & Beverage,United States,False,D,M,12/21/1959 0:00,4/4/2023 5:01,Colorado,West,703
+716,2259,1200,John MacMillan,73.0,United States,Plymouth,Cargill,Food & Beverage,United States,False,D,M,9/20/1949 0:00,4/4/2023 5:01,Minnesota,Midwest,703
+717,2259,1200,Martha MacMillan,71.0,United States,Orono,Cargill,Food & Beverage,United States,False,D,F,10/1/1951 0:00,4/4/2023 5:01,Minnesota,Midwest,703
+718,2259,1200,William MacMillan,68.0,United States,Englewood,Cargill,Food & Beverage,United States,False,D,M,5/25/1954 0:00,4/4/2023 5:01,Colorado,West,703
+719,2259,1200,Jorge Mas,60.0,United States,Miami,Construction,Construction & Engineering,United States,False,U,M,2/28/1963 0:00,4/4/2023 5:01,Florida,South,703
+720,2259,1200,Jeffrey Michael & family,66.0,United States,Minnetonka,Data management,Technology,United States,True,U,M,7/18/1956 0:00,4/4/2023 5:01,Minnesota,Midwest,703
+721,2259,1200,Alan Miller & family,85.0,United States,Lower Merion,Healthcare services,Healthcare,United States,True,D,M,8/17/1937 0:00,4/4/2023 5:01,Pennsylvania,Northeast,703
+722,2259,1200,Scott Nuttall,50.0,United States,New York,Private equity,Finance & Investments,United States,True,U,M,11/25/1972 0:00,4/4/2023 5:01,New York,Northeast,703
+723,2259,1200,Jonathan Oringer,48.0,United States,Miami Beach,Stock photos,Technology,United States,True,D,M,5/2/1974 0:00,4/4/2023 5:01,Florida,South,703
+724,2259,1200,Mark Pincus,57.0,United States,San Francisco,Online games,Technology,United States,True,D,M,2/13/1966 0:00,4/4/2023 5:01,California,West,703
+725,2259,1200,Forrest Preston,90.0,United States,Cleveland,Health care,Healthcare,United States,True,D,M,3/22/1933 0:00,4/4/2023 5:01,Tennessee,South,703
+726,2259,1200,Jimmy Rane,76.0,United States,Abbeville,Lumber,Manufacturing,United States,True,N,M,9/15/1946 0:00,4/4/2023 5:01,Alabama,South,703
+727,2259,1200,Bennett Rosenthal,59.0,United States,Los Angeles,Finance,Finance & Investments,United States,True,N,M,9/24/1963 0:00,4/4/2023 5:01,California,West,703
+728,2259,1200,Sytse 'Sid' Sijbrandij,43.0,United States,San Francisco,Software,Technology,Netherlands,True,N,M,8/1/1979 0:00,4/4/2023 5:01,California,West,703
+729,2259,1200,Mike Speiser,52.0,United Kingdom,London,Software,Technology,United States,True,U,M,1/25/1971 0:00,4/4/2023 5:01,N/A,N/A,703
+730,2259,1200,Michael Steinhardt,82.0,United States,Mount Kisco,Hedge funds,Finance & Investments,United States,True,E,M,12/7/1940 0:00,4/4/2023 5:01,New York,Northeast,703
+731,2259,1200,Ion Stoica,58.0,United States,Berkeley,Data analytics,Technology,Romania,True,D,M,2/12/1965 0:00,4/4/2023 5:01,California,West,703
+732,2259,1200,J. Wayne Weaver,87.0,United States,Jacksonville,Shoes,Diversified,United States,True,E,M,9/1/1935 0:00,4/4/2023 5:01,Florida,South,703
+733,2259,1200,Cameron Winklevoss,41.0,United States,New York,Cryptocurrency,Finance & Investments,United States,True,D,M,8/21/1981 0:00,4/4/2023 5:01,New York,Northeast,703
+734,2259,1200,Tyler Winklevoss,41.0,United States,New York,Cryptocurrency,Finance & Investments,United States,True,D,M,8/21/1981 0:00,4/4/2023 5:01,New York,Northeast,703
+735,2259,1200,Matei Zaharia,37.0,United States,Berkeley,Data analytics,Technology,Romania,True,D,M,4/21/1985 0:00,4/4/2023 5:01,California,West,703
+736,2259,1200,Ning Zhao,56.0,China,Shanghai,Pharmaceuticals,Healthcare,United States,True,Split Family Fortune,F,1/1/1967 0:00,4/4/2023 5:01,N/A,N/A,703
+737,2405,1100,Joseph Bae,51.0,United States,New York,Private equity,Finance & Investments,United States,True,N,M,1/12/1972 0:00,4/4/2023 5:01,New York,Northeast,737
+738,2405,1100,Abigail Bennett,42.0,United States,Rochester,Liquor,Food & Beverage,United States,False,Split Family Fortune,F,12/27/1980 0:00,4/4/2023 5:01,New York,Northeast,737
+739,2405,1100,Sara Blakely,52.0,United States,Atlanta,Spanx,Fashion & Retail,United States,True,E,F,2/27/1971 0:00,4/4/2023 5:01,Georgia,South,737
+740,2405,1100,Lloyd Blankfein,68.0,United States,New York,Banking,Finance & Investments,United States,True,E,M,9/20/1954 0:00,4/4/2023 5:01,New York,Northeast,737
+741,2405,1100,Ryan Breslow,28.0,United States,Miami,E-commerce software,Technology,United States,True,D,M,5/20/1994 0:00,4/4/2023 5:01,Florida,South,737
+742,2405,1100,Weili Dai,61.0,United States,Las Vegas,Semiconductors,Technology,United States,True,D,F,9/14/1961 0:00,4/4/2023 5:01,Nevada,West,737
+743,2405,1100,Henry Engelhardt,65.0,United Kingdom,Cardiff,Insurance,Finance & Investments,United States,True,D,M,1/17/1958 0:00,4/4/2023 5:01,N/A,N/A,737
+744,2405,1100,Paul Fireman,79.0,United States,Brookline,Reebok,Fashion & Retail,United States,True,E,M,2/14/1944 0:00,4/4/2023 5:01,Massachusetts,Northeast,737
+745,2405,1100,Robert Fisher,69.0,United States,San Francisco,Gap,Fashion & Retail,United States,False,D,M,8/1/1953 0:00,4/4/2023 5:01,California,West,737
+746,2405,1100,Donald Friese,82.0,United States,Los Angeles,Manufacturing,Manufacturing,United States,True,E,M,10/3/1940 0:00,4/4/2023 5:01,California,West,737
+747,2405,1100,David Golub,60.0,United States,New York,Private equity,Finance & Investments,United States,True,E,M,4/16/1962 0:00,4/4/2023 5:01,New York,Northeast,737
+748,2405,1100,David Hindawi,78.0,United States,Seattle,Software,Technology,United States,True,D,M,12/8/1944 0:00,4/4/2023 5:01,Washington,West,737
+749,2405,1100,Sunjay Kapur,51.0,India,Delhi,Auto parts,Automotive,United States,False,D,M,10/15/1971 0:00,4/4/2023 5:01,N/A,N/A,737
+750,2405,1100,Nancy Lerner,62.0,United States,Cleveland,"Banking, credit cards",Finance & Investments,United States,False,E,F,5/11/1960 0:00,4/4/2023 5:01,Ohio,Midwest,737
+751,2405,1100,Norma Lerner,87.0,United States,Cleveland,Banking,Finance & Investments,United States,False,E,F,3/28/1936 0:00,4/4/2023 5:01,Ohio,Midwest,737
+752,2405,1100,Randolph Lerner,61.0,United States,Cleveland,"Banking, credit cards",Finance & Investments,United States,False,E,M,2/21/1962 0:00,4/4/2023 5:01,Ohio,Midwest,737
+753,2405,1100,Jeffrey Lorberbaum,68.0,United States,Chattanooga,Flooring,Manufacturing,United States,False,D,M,10/25/1954 0:00,4/4/2023 5:01,Tennessee,South,737
+754,2405,1100,Kevin Plank,50.0,United States,Lutherville-Timonium,Under Armour,Fashion & Retail,United States,True,D,M,8/13/1972 0:00,4/4/2023 5:01,Maryland,South,737
+755,2405,1100,Matthew Roszak,50.0,United States,Chicago,Cryptocurrency,Finance & Investments,United States,True,D,M,12/9/1972 0:00,4/4/2023 5:01,Illinois,Midwest,737
+756,2405,1100,Paul Sciarra,42.0,United States,San Francisco,Pinterest,Technology,United States,True,D,M,2/15/1981 0:00,4/4/2023 5:01,California,West,737
+757,2405,1100,Dean Solon,58.0,United States,Gallatin,Solar systems,Energy,United States,True,U,M,1/1/1965 0:00,4/4/2023 5:01,Tennessee,South,737
+758,2405,1100,Joseph Steinberg,79.0,United States,New York,Investments,Finance & Investments,United States,True,U,M,2/5/1944 0:00,4/4/2023 5:01,New York,Northeast,737
+759,2405,1100,Zachary Stern,41.0,United States,Jackson,Liquor,Food & Beverage,United States,False,Split Family Fortune,M,1/9/1982 0:00,4/4/2023 5:01,Wyoming,South,737
+760,2405,1100,Sehat Sutardja,61.0,United States,Las Vegas,Semiconductors,Technology,United States,True,D,M,7/9/1961 0:00,4/4/2023 5:01,Nevada,West,737
+761,2405,1100,Tiger Woods,47.0,United States,Jupiter Island,Golf,Sports,United States,True,N,M,12/30/1975 0:00,4/4/2023 5:01,Florida,South,737
+762,2540,1000,Jimmy Buffett,76.0,United States,Palm Beach,"Entertainment, Margaritaville",Media & Entertainment,United States,True,N,M,12/25/1946 0:00,4/4/2023 5:01,Florida,Unknown,762
+763,2540,1000,Tianqiao Chen,49.0,United States,Atherton,Online games,Technology,China,True,D,M,5/16/1973 0:00,4/4/2023 5:01,California,West,762
+764,2540,1000,Benoit Dageville,56.0,United States,San Carlos,Software,Technology,United States,True,D,M,6/29/1966 0:00,4/4/2023 5:01,California,West,762
+765,2540,1000,William Fisher,66.0,United States,San Francisco,Gap,Fashion & Retail,United States,False,D,M,4/1/1957 0:00,4/4/2023 5:01,California,West,762
+766,2540,1000,LeBron James,38.0,United States,Los Angeles,Basketball,Sports,United States,True,N,M,12/30/1984 0:00,4/4/2023 5:01,California,West,762
+767,2540,1000,Ken Kendrick,79.0,United States,Paradise Valley,"Banking, sports team",Sports,United States,True,E,M,9/2/1943 0:00,4/4/2023 5:01,Arizona,West,762
+768,2540,1000,Brad Keywell,53.0,United States,Chicago,"Software, investments",Technology,United States,True,N,M,10/27/1969 0:00,4/4/2023 5:01,Illinois,Midwest,762
+769,2540,1000,Richard Kurtz,82.0,United States,Palm Beach,Real estate,Real Estate,United States,True,N,M,5/15/1940 0:00,4/4/2023 5:01,Florida,South,762
+770,2540,1000,Apoorva Mehta,36.0,United States,San Francisco,Grocery delivery service,Technology,Canada,True,D,M,7/19/1986 0:00,4/4/2023 5:01,California,West,762
+771,2540,1000,Tyler Perry,53.0,United States,Atlanta,"Movies, television",Media & Entertainment,United States,True,E,M,9/14/1969 0:00,4/4/2023 5:01,Georgia,South,762
+772,2540,1000,George Sakellaris,76.0,United States,Milton,Energy services,Energy,United States,True,D,M,6/3/1946 0:00,4/4/2023 5:01,Massachusetts,Northeast,762
+773,2540,1000,Neerja Sethi,68.0,United States,Fisher Island,"IT consulting, outsourcing",Technology,United States,True,E,F,1/16/1955 0:00,4/4/2023 5:01,Florida,South,762
+774,2540,1000,Scott Smith,73.0,United States,Provo,Cloud computing,Technology,United States,True,D,M,4/12/1949 0:00,4/4/2023 5:01,Utah,West,762
+775,2540,1000,David Tran & family,77.0,United States,Arcadia,Hot sauce,Food & Beverage,United States,True,N,M,11/19/1945 0:00,4/4/2023 5:01,California,West,762
+776,2540,1000,"Richard Yuengling, Jr.",80.0,United States,Pottsville,Beer,Food & Beverage,United States,False,E,M,3/10/1943 0:00,4/4/2023 5:01,Pennsylvania,Northeast,762
